@@ -1,0 +1,296 @@
+/* Add Normalize */
+
+@import url(normalize.css);
+
+/* Additional Styles OE */
+
+@charset "UTF-8";
+/* CSS Document */
+html{
+  height: 100%;
+  margin:0px;
+}
+body {
+  min-height: 100%;
+  background-color:#fff;
+  margin:0px;
+  overflow: auto;
+  position: relative;
+  font-family: sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -80px;
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height: 80px;
+}
+.site-footer {
+}
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+
+canvas {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: .7;
+}
+
+@media screen and (min-width: 80em){
+    canvas {
+        opacity: .7;
+    }
+}
+
+
+.content-wrapper{
+    padding: 18% 0 40px 0;
+}
+
+.content_wrapper p {
+    z-index: 1;
+    margin: auto;
+    width: 100%
+}
+
+
+@media screen and (max-width:50em) {
+    .content-wrapper{
+        padding-top: 25%;
+    }
+}
+
+.theoebg{
+    height:100%;
+    width:100%;
+}
+
+.theoelg{
+    /*padding-top: 18%;
+    text-align:center;*/
+    position: relative;
+    margin: 0 auto;
+    width: 300px;
+    height: 50%;
+    z-index: 3;
+}
+
+.home_text{
+    text-align:center;
+    background:transparent;
+    color: #828282;
+    font-family: sans-serif;
+    font-size: 115%;
+    height: 50%;
+    margin: 0 auto 0;
+    padding: 5px 5px 30px 5px;
+    position: relative;
+    width: 480px;
+    z-index: 3;
+}
+
+.home_jobs {
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px 5px 0;
+    position: relative;
+    z-index: 3;
+}
+
+.home_submit{
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+    margin: 1% auto 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 3;
+    vertical-align: middle;
+}
+
+
+#email_text{
+    font-size: 100%;
+    font-style: italic;
+    height: 45px;
+    vertical-align: middle;
+    width: 300px;
+    padding:0 12px;
+}
+
+.submit {
+    background: #424E55 none repeat scroll 0 0;
+    border: 1px solid #424E55;
+    color: #fff;
+    font-size: 0.9em;
+    font-weight: 400;
+    height: 48px;
+    text-decoration: none;
+    vertical-align: middle;
+    padding: 0 12px;
+    margin-left:6px;
+    cursor: pointer;
+}
+
+.hire{
+    color: #d60b52 !important;
+    display: block;
+    font-weight: normal;
+    margin:10px auto 0 auto;
+    width:100px;
+}
+
+.theoelg img {
+    width: 300px;
+}
+
+footer{
+    width: 100%;
+    /*background: rgba(0,0,0,.5);*/
+    padding: 0;
+    position: absolute;
+    color: white;
+    z-index: 3;
+    text-align: center;
+}
+
+footer p {
+    /*background: orange;*/
+    font-weight: 300;
+    display: inline-block;
+    /*letter-spacing: 1px;*/
+    padding: 0 10px;
+    font-size: 14px;
+    line-height: 40px;
+}
+
+footer nav {
+    width:80%;
+    min-width: 300px;
+    margin:0 auto;
+    font-size:17px;
+    text-align: right;
+}
+
+footer nav a {
+    color:#5F6B6F;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+@media screen and (min-width: 1750px) {
+    .theoelg {
+        width: 465px;
+        height: 63px;
+    }
+    .theoelg img {
+        width: 465px;
+    }
+}
+
+@media screen and (max-width: 40em) {
+    .theoelg {
+    }
+    .home_text{
+      width: 70%;
+    }
+    .home_submit{
+        width: 90%;
+    }
+    #email_text {
+        font-size: 85%;
+        font-style: italic;
+        
+        vertical-align: middle;
+        width: 280px;
+        padding: 0 12px;
+    }
+    .submit {
+        font-size: 1em;
+        height: 45px;
+        text-decoration: none;
+        vertical-align: middle;
+        width: 101px;
+    }
+
+    footer nav {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    footer nav a {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}
+
+@media screen and (max-width: 27.35em) {
+    .theoelg {
+    }
+    .home_text{
+      width: 70%;
+    }
+    .home_submit{
+        width: 90%;
+    }
+    
+    #email_text {
+        font-size: 85%;
+        font-style: italic;
+        margin-bottom: 5px;
+        vertical-align: middle;
+        width: 260px;
+        padding:0 12px;
+    }
+    .submit {
+        font-size: 1em;
+        height: 45px;
+        text-decoration: none;
+        vertical-align: middle;
+        width: 101px;
+    }
+}
+
+.text-highlight {
+    color: #fdd22e;
+}
+
+@media screen and (max-width: 40em) {
+    .hidden-xs {
+        display: none;
+    }
+}
+

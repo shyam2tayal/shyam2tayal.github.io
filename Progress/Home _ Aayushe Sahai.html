@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)http://aayushesahai.ml/ -->
+<html lang="en"><!--HEAD STARTS --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Home | Aayushe Sahai</title>
+
+        <meta charset="utf-8">
+
+<meta name="description" content="A simple personal website.">
+<meta name="keywords" content="">
+<meta name="author" content="metatags generator">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="3 month">
+<title>Home | Aayushe Sahai</title>
+<!-- aayushe sahai, personal website, Creations --></head><body><cmt>
+
+<!-- FAVICON OF WEB-->
+<link rel="shortcut icon" href="http://aayushesahai.ml/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+<!-- SITE VERIFICATION -->
+<meta name="google-site-verification" content="tdNqr1VgXHT81_TFvNOEvmgQbM2ctVa2xRVSlYDJ4MA">
+        
+
+
+<!-- CSS STYLING-->        
+<link rel="stylesheet" href="Home _ Aayushe Sahai_files/shyam.css">
+<!-- JAVASCRIPT GO HERE -->     
+<script src="./Home _ Aayushe Sahai_files/three.min.js"></script>
+		
+		
+        <script src="./Home _ Aayushe Sahai_files/projector.js"></script>
+        <script src="./Home _ Aayushe Sahai_files/canvasRenderer.js"></script>
+    
+
+
+    
+<!-- JAVASCRIPT GO HERE -->    
+        <script type="text/javascript">
+
+            var mouseX = 0, mouseY = 0,
+
+            windowHalfX = window.innerWidth / 2,
+            windowHalfY = window.innerHeight / 2,
+
+            SEPARATION = 200,
+            AMOUNTX = 10,
+            AMOUNTY = 10,
+
+            camera, scene, renderer;
+
+            init();
+            animate();
+
+            function init() {
+
+                var container, separation = 30, amountX = 50, amountY = 50,
+                particles, particle;
+
+                container = document.createElement('div');
+                document.body.appendChild(container);
+
+                camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 10000 );
+                camera.position.z = 100;
+
+                scene = new THREE.Scene();
+
+                renderer = new THREE.CanvasRenderer();
+                renderer.setPixelRatio( window.devicePixelRatio );
+                renderer.setSize( window.innerWidth, window.innerHeight );
+                container.appendChild( renderer.domElement );
+
+                // particles
+
+                var PI2 = Math.PI * 2;
+
+                var geometry = new THREE.Geometry();
+                
+                var colors = [
+                    0x40C0D8,
+                    0xEC4E73,
+                    0xEEE79C
+                ];
+                var scales = [
+                    10,
+                    16,
+                    24,
+                    36
+                ];
+
+                for ( var i = 0; i < separation; i ++ ) {
+                
+                    var material = new THREE.SpriteCanvasMaterial( {
+                        color: colors[Math.floor(Math.random() * colors.length)],
+                        program: function ( context ) {
+
+                            context.beginPath();
+                            context.arc( 0, 0, 0.5, 0, PI2, true );
+                            context.fill();
+
+                        }
+                    });
+                    
+                    particle = new THREE.Sprite( material );
+                    particle.position.x = Math.random() * 2 - 1;
+                    particle.position.y = Math.random() * 2 - 1;
+                    particle.position.z = Math.random() * 2 - 1;
+                    particle.position.normalize();
+                    particle.position.multiplyScalar( Math.random() * 10 + 450 );
+                    particle.scale.x = particle.scale.y = scales[Math.floor(Math.random() * scales.length)];
+                    scene.add( particle );
+
+                    geometry.vertices.push( particle.position );
+
+                }
+
+                // lines
+
+                var line = new THREE.Line( geometry, new THREE.LineBasicMaterial( { color: 0x666666, opacity: 0.5 } ) );
+                scene.add( line );
+
+                document.addEventListener( 'mousemove', onDocumentMouseMove, false );
+                document.addEventListener( 'touchstart', onDocumentTouchStart, false );
+                document.addEventListener( 'touchmove', onDocumentTouchMove, false );
+
+                window.addEventListener( 'resize', onWindowResize, false );
+
+            }
+
+            function onWindowResize() {
+
+                windowHalfX = window.innerWidth / 2;
+                windowHalfY = window.innerHeight / 2;
+
+                camera.aspect = window.innerWidth / window.innerHeight;
+                camera.updateProjectionMatrix();
+
+                renderer.setSize( window.innerWidth, window.innerHeight );
+
+            }
+
+            //
+
+            function onDocumentMouseMove(event) {
+
+                mouseX = event.clientX - windowHalfX;
+                mouseY = event.clientY - windowHalfY;
+
+            }
+
+            function onDocumentTouchStart( event ) {
+
+                if ( event.touches.length > 1 ) {
+
+                    event.preventDefault();
+
+                    mouseX = event.touches[ 0 ].pageX - windowHalfX;
+                    mouseY = event.touches[ 0 ].pageY - windowHalfY;
+
+                }
+
+            }
+
+            function onDocumentTouchMove( event ) {
+
+                if ( event.touches.length == 1 ) {
+
+                    event.preventDefault();
+
+                    mouseX = event.touches[ 0 ].pageX - windowHalfX;
+                    mouseY = event.touches[ 0 ].pageY - windowHalfY;
+
+                }
+
+            }
+
+            //
+
+            function animate() {
+
+                requestAnimationFrame( animate );
+
+                render();
+
+            }
+
+            function render() {
+
+                camera.position.x += ( mouseX - camera.position.x ) * .05;
+                camera.position.y += ( - mouseY + 200 - camera.position.y ) * .05;
+                camera.lookAt( scene.position );
+
+                renderer.render( scene, camera );
+
+            }
+
+            function postData(form) {
+                var input = document.getElementById("email_text");
+                var regExp = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+                if (!regExp.test(input.value)) {
+                    input.value = "";
+                    input.placeholder = "Still need your email...";
+                    return false;
+                }
+
+                req = new XMLHttpRequest();
+                req.open('POST', form.action);
+                req.onload = function() {
+                    input.value = "";
+                    if (req.status === 200) {
+                        input.placeholder = "Thanks!";
+                    } else {
+                        input.placeholder = "Sorry, something went wrong...";
+                    }
+                };
+                req.send(new FormData(form));
+            }
+
+        </script><div><canvas width="1366" height="599" style="width: 1366px; height: 599px;"></canvas></div>
+	<!-- MAIN SECTION JUMBOTRON -->    
+        <div class="page-wrap">
+            <div class="content-wrapper">
+                
+
+                
+            </div>
+        </div>
+		
+		
+		<!-- AUDIO SECTIONS STARTS HERE-->
+<audio controls="" autoplay="" loop="" style="display:none">
+  <source src="Aayushe.ogg" type="audio/ogg">
+  <source src="Aayushe.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<!-- FOOTER GO HERE -->    
+       	<footer class="site-footer">
+            <nav>
+              
+				
+                <a href="#">Home</a>
+				<a href="#">About</a>
+				<a href="#">InstaMemories</a>
+					<a href="#">bubblefun</a>
+					  <a href="#" target="_blank">Blog</a>
+				<a href="#" target="_blank">Facebook</a>
+				
+                
+            </nav>
+			
+        </footer>
+
+    
+
+</cmt><div><canvas width="1366" height="613" style="width: 1366px; height: 613px;"></canvas></div></body></html>
