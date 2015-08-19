@@ -1,0 +1,63 @@
+
+#main {
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+  
+    padding: 20px 20px 0;
+}
+
+
+.progress {
+    color: #000;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+
+/* jQuery Countdown styles 1.6.1. */
+
+#counter {
+   display: none;
+}
+#counter-default {
+    margin: 20px auto;
+}
+#counter-default .inner {
+    font-size: large;
+    text-align: center;
+    border: none;
+    margin: 8px 0;
+    padding: 8px;
+}
+#counter-default .timer-number {
+    font-size: 120px;
+    margin-bottom: 10px;
+    font-weight: 900;
+    color:#FFFFFF
+}
+#counter-default  .timer-text {
+    padding: 12px;
+    font-size:30px;
+    font-weight:800;
+    letter-spacing:5px;
+    color:#FFFFFF;
+}
+
+.title {
+    margin:30px;
+    text-align:center;
+}
+.well {
+    background-color: #202020;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: none;
+}
+
+
+@media (max-width: 767px) {
+    body {padding-top: 10px;}
+    #main {width:auto;}
+}
