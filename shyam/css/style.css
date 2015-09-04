@@ -81,7 +81,7 @@ body {
     left: 50%;
 	margin-left: -500px;
  }
- .jigyasaharley img{
+ .titikshaharley img{
 	width: 240px;
 	height: 140px;
 	z-index: 30;
@@ -263,7 +263,7 @@ body {
 	-o-transition: all .1s ease;
 	transition: all .1s ease;
 }
-#gtcmunregister>a{
+#smvduregister>a{
 	position: relative;
     color: rgba(255,255,255,1);
     text-decoration: none;
@@ -296,7 +296,7 @@ body {
     position: relative;
     top: 6px;
 }
-#gtcmunregister>a:active
+#smvduregister>a:active
 {
 	-webkit-box-shadow: 0px 3px 0px #0b1627;
     -moz-box-shadow: 0px 3px 0px #0b1627;
@@ -340,25 +340,25 @@ body {
 #nav-trigger,#label-nav,.site-wrap,.navigation{
 	display: block;
 }
-.jigyasaharleymobile{
+.titikshamobile{
 	width: 220px;
 	height: 120px;
 	margin: 0 auto;
 	position: relative;
 	display: block;
 }
-.jigyasaharleymobile img{
+.titikshamobile img{
 	width: 220px;
 	height: 120px;
 }
- .ribbonmobile,.jigyasaheadermobile,.gtcmobile,.datemobile{
+ .ribbonmobile,.titikshaheadermobile,.titikshamobile,.datemobile{
 	text-align: center;
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
 	display: block;
 }
-.ribbonmobile img,.jigyasaheadermobile img,.gtcmobile img,.datemobile img{
+.ribbonmobile img,.titikshaheadermobile img,.titikshamobile img,.datemobile img{
 	padding-top: 1em;
 	width: 90%;
  }
