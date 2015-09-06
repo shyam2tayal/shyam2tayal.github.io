@@ -57,7 +57,7 @@ label {
   content: "";
   transition: all 0.3s ease-in-out;
   cursor: pointer;
-  border: 3px solid #435160;
+  border: 3px solid #6D7781;
 }
 
 #agree:checked ~ label[for=agree] {
@@ -104,7 +104,7 @@ input[type="submit"]:hover {
 }
 
 ::-webkit-input-placeholder {
-  color: #435160;
+  color: #6D7781;
   font-size: 12px;
 }
 
