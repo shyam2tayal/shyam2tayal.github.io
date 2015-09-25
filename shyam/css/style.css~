@@ -19,7 +19,9 @@ body {
   color: #9e87ce;
   background-color: white;
 }
-
+iframe::-webkit-scrollbar {  
+    display: none;
+  }
 
 svg {
   max-width: 100%;
@@ -39,7 +41,7 @@ Main Components
   position: fixed;
   z-index: 3;
   top: 12px;
-  right: 10%;
+  right: 5%;
   height: 44px;
   width: 44px;
   /* image replacement */
@@ -682,10 +684,4 @@ main.scale-down {
   .no-js .cd-nav li:nth-of-type(3n) a {
     border-right-width: 1px solid #e0cf75;
   }
-}
-
-
-
-::-webkit-scrollbar { 
-    display: none; 
 }
