@@ -34,7 +34,7 @@ background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url(".
 }
 
 .main h1 {
- color:#4682B4 ;
+ color:#4169E1 ;
  font-size: 60px;
  background-color: #87CEEB;
  padding: 20px 0;
@@ -55,6 +55,7 @@ background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url(".
  border: 0px;
  position: relative;
  padding: 50px;
+ width: 100%;
    border-radius: 0;
    margin-bottom:50px;
    background-color : transparent;
@@ -81,13 +82,15 @@ background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url(".
    text-align: center;
    width: auto;
  position: absolute;
- top: 240px;
- right: 60px;
+ top: 100px;
+ right: 30%;
 }
 
 .email{
    position: absolute;
    text-align: center;
+    top: 110px;
+ right: 25%;
 }
 
 
