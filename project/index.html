@@ -9,25 +9,21 @@
     
   </head>
   <body ng-app="myApp" ng-init="myValue1=true;myValue=false">
-    <div class="header">
-      <div class="container">
-        <h1>Book End</h1>
-      </div>
-    </div>
+   
 
     <div class="main" ng-controller="MainController">
       <div class="container">
-
-        <h1>{{ title }}</h1>
+      
+        <h1 >{{ title }}</h1>
         
 
 
         <div ng-repeat="i in mydata.results" class="col-md-3"> 
   				<div class="thumbnail"> 
-            <div ng-hide="selected.index===$index ">
-    			     <img  class="img-rounded" ng-click="selected.index=$index" ng-src="{{ i.user.picture.medium }}"> 
-    				<p class="price" ng-click="myFunction1()">{{ i.user.name.title }} {{i.user.name.first}} {{i.user.name.last}}<br/>
-              {{i.user.location.state}}</p> 
+            <div ng-hide="selected.index===$index " ng-click="selected.index=$index">
+    			     <img  class="img-circle"  ng-src="{{ i.user.picture.medium }}"> 
+    				<p class="price" >{{ i.user.name.title }} {{i.user.name.first}} {{i.user.name.last}}</p>
+             <p class="email"> <br/>{{i.user.email}}</p> 
 
 				   
 				   
