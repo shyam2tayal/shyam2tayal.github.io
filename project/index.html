@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <head>
+      <link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:500,300,700,400' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet" />
+
+    <script src="js/angular/angular.min.js"></script>
+    
+  </head>
+  <body ng-app="myApp" ng-init="myValue1=true;myValue=false">
+    <div class="header">
+      <div class="container">
+        <h1>Book End</h1>
+      </div>
+    </div>
+
+    <div class="main" ng-controller="MainController">
+      <div class="container">
+
+        <h1>{{ title }}</h1>
+        
+
+
+        <div ng-repeat="i in mydata.results" class="col-md-3"> 
+  				<div class="thumbnail"> 
+            <div ng-hide="selected.index===$index ">
+    			     <img  class="img-rounded" ng-click="selected.index=$index" ng-src="{{ i.user.picture.medium }}"> 
+    				<p class="price" ng-click="myFunction1()">{{ i.user.name.title }} {{i.user.name.first}} {{i.user.name.last}}<br/>
+              {{i.user.location.state}}</p> 
+
+				   
+				   
+				    
+            </div>
+
+
+            <div ng-show="selected.index===$index" >
+            <p> {{i.user.location.city}}</p>
+
+            <input type="button" class="btn btn-info" value="Back" ng-click="selected.index=$index+1">
+
+
+
+
+
+
+
+  				   </div> 
+				</div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <h2>Text for footer</h2>
+       
+      </div>
+    </div>
+
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/MainController.js"></script>
+  </body>
+</html>
