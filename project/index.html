@@ -18,7 +18,8 @@
         
 
 
-        <div ng-repeat="i in mydata.results" class="col-lg-6"> 
+        <div ng-repeat="i in mydata.results" class="col-lg-6">
+         <div class ="row top-buffer"
   				<div class="thumbnail"> 
             <div ng-hide="selected.index===$index " ng-click="selected.index=$index">
     			     <img  class="img-circle"  ng-src="{{ i.user.picture.medium }}"> 
@@ -54,7 +55,7 @@
 
   				   </div> 
 				</div>
-        
+        </div>
       </div>
     </div>
 

@@ -105,14 +105,15 @@ background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url(".
    text-align: center;
    width: 40px;
  position: absolute;
- top: 10px;
- right:30%;
+ top: 40px;
+ right:28%;
 }
 
 .data{
    background-color: #87CEEB;
    width:70%;
    border-style: dashed;
-   border-style: dashed;
+
 
 }
+.top-buffer { margin-top:60px; }
