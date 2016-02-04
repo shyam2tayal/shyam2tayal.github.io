@@ -20,7 +20,7 @@ $scope.back=true;
 
 
 
-  $scope.title = 'Micro social directory using angularjs'; 
+  $scope.title = 'Micro Social Directory Using AngularJs'; 
   
 });
 
