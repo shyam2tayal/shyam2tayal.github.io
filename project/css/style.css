@@ -94,8 +94,9 @@ h1{
 
 
 .footer {
- text-align: center;
- margin: 80px 0 110px;
+ text-align: right;
+ background-color: black;
+ color:white;
 }
 
 .shyam{
