@@ -3,7 +3,7 @@ html, body {
  padding: 0;
  font-family: 'oswald', sans-serif;
  width:auto;
-background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url("../img/back.jpg");
+background : linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("../img/back.jpg");
 
    
 
@@ -31,10 +31,15 @@ background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url(".
  padding: 40px 0;
 }
 
+h1{
+   color:#fff;
+   text-align: center;
+}
+
 .main h1 {
- color:#4169E1 ;
+ color:#fff;
  font-size: 60px;
- background-color: #87CEEB;
+ 
  padding: 20px 0;
    line-height: 60px;
    
@@ -110,7 +115,7 @@ background : linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),url(".
 }
 
 .data{
-   background-color: #87CEEB;
+   background-color: #39D1B4;
    width:70%;
    border-style: dashed;
 

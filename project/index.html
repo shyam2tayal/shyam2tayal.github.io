@@ -9,12 +9,13 @@
     
   </head>
   <body ng-app="myApp" ng-init="myValue1=true;myValue=false">
-   
+   <nav class="navbar navbar-inverse">
+        <h1><i><b>Micro Social Directory Using AngularJs</b></i></h1>
+        </nav>
 
     <div class="main" ng-controller="MainController">
       <div class="container">
-      
-        <h1 >{{ title }}</h1>
+        
         
 
 
@@ -22,9 +23,9 @@
          <div class ="row top-buffer"
   				<div class="thumbnail"> 
             <div ng-hide="selected.index===$index " ng-click="selected.index=$index">
-    			     <img  class="img-circle"  ng-src="{{ i.user.picture.medium }}"> 
-    				<p class="price" >{{ i.user.name.title }} {{i.user.name.first}} {{i.user.name.last}}</p>
-             <p class="email"> <br/>{{i.user.email}}</p> 
+    			     <img  class="img-circle" z-index="-2" ng-src="{{ i.user.picture.medium }}"> 
+    				<p class="price" ><b>{{ i.user.name.title }} {{i.user.name.first}} {{i.user.name.last}}</b></p>
+             <p class="email"><b> <br/>{{i.user.email}}</b></p> 
 
 				   
 				   
