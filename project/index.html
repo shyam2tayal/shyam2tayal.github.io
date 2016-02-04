@@ -18,7 +18,7 @@
         
 
 
-        <div ng-repeat="i in mydata.results" class="col-md-6"> 
+        <div ng-repeat="i in mydata.results" class="col-lg-6"> 
   				<div class="thumbnail"> 
             <div ng-hide="selected.index===$index " ng-click="selected.index=$index">
     			     <img  class="img-circle"  ng-src="{{ i.user.picture.medium }}"> 
@@ -31,15 +31,21 @@
             </div>
 
 
-            <div ng-show="selected.index===$index" >
+            <div ng-show="selected.index===$index" class="data">
+            <span>
             <p> Name: {{ i.user.name.title }} {{i.user.name.first}} {{i.user.name.last}}</p>
             <p> Gender: {{i.user.gender}}</p>
             <p> Adress: {{i.user.location.street}} {{i.user.location.city}} {{i.user.location.state}}</p>
             <p> Email: {{i.user.email}}</p>
             <p> Dob: {{i.user.dob}}</p>
+            <p> Phone: {{i.user.phone}}</p>
+            <p>Username: {{i.user.username}}</p>
+            <p> password: {{i.user.password}}</p>
+            </span>
 
-            <input type="button" class="btn btn-info" value="Back" ng-click="selected.index=$index+1">
-
+            <div class="shyam">
+           <p ng-click="selected.index=$index+1" >x</p>
+            </div>
 
 
 
