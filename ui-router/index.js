@@ -1,15 +1,19 @@
-// create angular app
-	var validationApp = angular.module('routingDemoApp', []);
+
+
+
+	// create angular app
+	var validationApp = angular.module('validationApp', []);
 
 	// create angular controller
-	routingDemoApp.controller('mainController', function($scope) {
+	validationApp.controller('mainController', function($scope) {
 
 		// function to submit the form after all validation has occurred			
 		$scope.submitForm = function() {
 
 			// check to make sure the form is completely valid
-
-			alert('form succesfully submitted');
+			if ($scope.userForm.$valid) {
+				alert('our form is amazing');
+			}
 
 			var name = $scope.user.name;
 
@@ -18,6 +22,7 @@
 			var instrument = $scope.user.instrument;
 
 			var city = $scope.user.city;
+
 		};
 
 	});
