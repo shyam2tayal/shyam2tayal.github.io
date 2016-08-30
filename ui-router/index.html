@@ -1,0 +1,30 @@
+<html ng-app='routingDemoApp'>
+	<head>
+		<title>UI Router Demo App - Multiple,Nested States & Views</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+	</head>
+	<body class="container">
+		<h3>AngularJS UI Router Application</h3>
+
+		<nav class="navbar navbar-default row">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<ul class="nav navbar-nav">
+						<li><a ui-sref="business">Business</a></li>
+						<li><a ui-sref="portfolio">Portfolio</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		
+		<div class="row">
+			<div class="span12">
+				<div class="well" ui-view></div>        
+			</div>
+		</div> 		
+
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.js"></script>
+		<script src="http://angular-ui.github.io/ui-router/release/angular-ui-router.js"></script>
+		<script src="app.js"></script>
+	</body>
+</html>
