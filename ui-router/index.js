@@ -8,6 +8,9 @@
 		$scope.submitForm = function() {
 
 			// check to make sure the form is completely valid
+
+			alert('form succesfully submitted');
+			
 			var name = $scope.user.name;
 
 			var email = $scope.user.email;
