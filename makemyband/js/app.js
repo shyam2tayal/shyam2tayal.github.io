@@ -1,8 +1,10 @@
-var routerApp = angular.module('validationApp', ['ui.router']);
+'use strict';
 
-routerApp.config(['$stateProvider', '$urlRouterProvider',function($stateProvider, $urlRouterProvider) {
-    
-    $urlRouterProvider.otherwise("/business")
+var App = angular.module('routingDemoApp',['ui.router']);
+
+App.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider){
+                // For any unmatched url, send to /business
+                $urlRouterProvider.otherwise("/business")
                 
                 $stateProvider
                         .state('business', {
@@ -23,33 +25,17 @@ routerApp.config(['$stateProvider', '$urlRouterProvider',function($stateProvider
                                 $scope.services = ["Selling", "Support", "Delivery", "Reparation"];
                             }
                         })
-        
-        // nested list with custom controller
-        
-        
-        
-   
-    
-        
-}]);
 
-routerApp.controller('scotchController', function($scope) {
-    
-    $scope.message = 'test';
-   
-    $scope.scotches = [
-        {
-            name: 'Macallan 12',
-            price: 50
-        },
-        {
-            name: 'Chivas Regal Royal Salute',
-            price: 10000
-        },
-        {
-            name: 'Glenfiddich 1937',
-            price: 20000
-        }
-    ];
-    
-});
+                        .state('portfolio', {
+                            url: "/portfolio",
+                            views: {
+                                ""  :    { templateUrl: "portfolio.html" },
+                                "view1@portfolio": { template: "Write whatever you want, it's your virtual company." },
+                                "view2@portfolio": { templateUrl: "clients.html" ,
+                                    controller: function($scope){
+                                            $scope.clients = ["HP", "IBM", "MicroSoft"];
+                                    }
+                                }
+                            }
+                        })
+            }]);
