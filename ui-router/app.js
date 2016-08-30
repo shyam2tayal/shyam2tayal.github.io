@@ -11,6 +11,12 @@ App.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $ur
 							url: "/business",
 							templateUrl: "business.html"
 						})
+
+						.state('display', {
+							url: "/display",
+							templateUrl: "display.html"
+						})
+
 						.state('business.products', {
 							url: "/products",
 							templateUrl: "products.html",
