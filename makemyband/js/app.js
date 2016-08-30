@@ -2,15 +2,27 @@ var routerApp = angular.module('validationApp', ['ui.router']);
 
 routerApp.config(['$stateProvider', '$urlRouterProvider',function($stateProvider, $urlRouterProvider) {
     
-    $urlRouterProvider.otherwise('/user/edit-details');
-    
-    $stateProvider
-        
-        // HOME STATES AND NESTED VIEWS ========================================
-        .state('display', {
-            url: '/user/edit-details',
-            templateUrl: 'display.html'
-        })
+    $urlRouterProvider.otherwise("/business")
+                
+                $stateProvider
+                        .state('business', {
+                            url: "/business",
+                            templateUrl: "business.html"
+                        })
+                        .state('business.products', {
+                            url: "/products",
+                            templateUrl: "products.html",
+                            controller: function($scope){
+                                $scope.products = ["Computer", "Printers", "Phones", "Bags"];
+                            }
+                        })
+                        .state('business.services', {
+                            url: "/services",
+                            templateUrl: "services.html",
+                            controller: function($scope){
+                                $scope.services = ["Selling", "Support", "Delivery", "Reparation"];
+                            }
+                        })
         
         // nested list with custom controller
         
