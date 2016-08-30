@@ -2,7 +2,7 @@
 	var validationApp = angular.module('routingDemoApp', []);
 
 	// create angular controller
-	validationApp.controller('mainController', function($scope) {
+	routingDemoApp.controller('mainController', function($scope) {
 
 		// function to submit the form after all validation has occurred			
 		$scope.submitForm = function() {
