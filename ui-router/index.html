@@ -14,7 +14,7 @@
 <div class="col-sm-6" style="margin-left:20%;margin-top:10px">
     <!-- FORM ============ -->
   
-    <form name="userForm" ng-submit="submitForm()" novalidate>
+    <form name="userForm" ng-submit=alert('succesfully submitted') novalidate>
 
         <!-- NAME -->
         <div class="form-group" ng-class="{ 'has-error' : userForm.name.$invalid && !userForm.name.$pristine }">
@@ -61,11 +61,11 @@
       <p ng-show="userForm.instrument.$invalid && !userForm.instrument.$pristine" class="help-block">Please Select one or more instruments using shift key.</p>
       </div>
         
-        <button type="submit" class="btn btn-primary" ng-disabled="userForm.$invalid">Submit</button>
+        <button ui-sref="display" class="btn btn-primary" ng-disabled="userForm.$invalid">Submit</button>
         
     </form>
 
-   <a ui-sref="display" >aksdnkajsdnkjas</a>
+  
 
 
 
