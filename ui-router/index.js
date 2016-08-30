@@ -8,10 +8,13 @@
 		$scope.submitForm = function() {
 
 			// check to make sure the form is completely valid
-			if ($scope.userForm.$valid) {
-				alert('our form is amazing');
-			}
+			var name = $scope.user.name;
 
+			var email = $scope.user.email;
+
+			var instrument = $scope.user.instrument;
+
+			var city = $scope.user.city;
 		};
 
 	});
