@@ -1,5 +1,5 @@
 // create angular app
-	var validationApp = angular.module('validationApp', []);
+	var validationApp = angular.module('routingDemoApp', []);
 
 	// create angular controller
 	validationApp.controller('mainController', function($scope) {
@@ -10,7 +10,7 @@
 			// check to make sure the form is completely valid
 
 			alert('form succesfully submitted');
-			
+
 			var name = $scope.user.name;
 
 			var email = $scope.user.email;
