@@ -44,6 +44,9 @@
             <label>Email</label>
             <input type="email" name="email" class="form-control" ng-pattern="/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/" ng-model="user.email">
             <p ng-show="userForm.email.$invalid && !userForm.email.$pristine" class="help-block">Enter a valid email.</p>
+            <div ng-messages="cardForm.email.$error">
+    <div ng-message="pattern">Please enter a valid email address!</div>
+  </div>
         </div>
 
   
