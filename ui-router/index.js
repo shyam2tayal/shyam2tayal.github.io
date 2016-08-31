@@ -2,7 +2,7 @@
 
 
 	// create angular app
-	var validationApp = angular.module('validationApp', []);
+	var validationApp = angular.module('routingApp', []);
 
 	// create angular controller
 	validationApp.controller('mainController', function($scope) {
@@ -12,7 +12,7 @@
 
 			// check to make sure the form is completely valid
 			if ($scope.userForm.$valid) {
-				alert('our form is amazing');
+				alert('Form Submitted');
 			}
 
 			var name = $scope.user.name;

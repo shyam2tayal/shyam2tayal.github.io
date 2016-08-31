@@ -1,6 +1,6 @@
 'use strict';
 
-var App = angular.module('routingDemoApp',['ui.router']);
+var App = angular.module('routingApp',['ui.router']);
 
 App.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider){
 				// For any unmatched url, send to /business
