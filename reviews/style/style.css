@@ -1,0 +1,35 @@
+body {
+    background-image: url("../images/g.jpg");
+    background-size: 100% 130%;
+
+    overflow-x: hidden;
+    }
+
+.container {
+  margin-top: 2%;
+
+}
+
+.sam{
+  margin-left: 10%;
+}
+
+.sam1{
+  margin-left: 30%;
+}
+
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+
+img{
+  height:30%;
+  width:50%;
+}
+
+.funny{
+  margin-top: 4%;
+}
