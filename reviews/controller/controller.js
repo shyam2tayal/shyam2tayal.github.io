@@ -1,4 +1,4 @@
-App.controller('myctrl', ['$scope', '$stateParams','$filter',function($scope,$stateParams,$filter) {
+App.controller('myctrl', ['$scope', '$stateParams','$filter','$http',function($scope,$stateParams,$filter,$http) {
 
 //extracting id given in url
   $scope.pid = $stateParams.pid;
@@ -8,169 +8,31 @@ App.controller('myctrl', ['$scope', '$stateParams','$filter',function($scope,$st
      };
     $scope.myNumber = 5;
 
+    $http.get("http://www.i2ce.in/reviews/1/1")
+         .then(function(response){
 
-  //creating data for reviews
-var data = [{
-  id: 1,
-  reviews:[{
-    title: 'Awesome',
-    comment: 'no comments',
-    usefulness: 90,
-    reviewerName: 'abc',
-    connection_level : 3,
-    ratings:4,
-    d_time: 8,
-    other: 'thanku'
-  },{
-    title: 'Cool',
-    comment:'no comments',
-    usefulness: 5,
-    reviewerName: 'def',
-    connection_level : 7,
-    ratings:4,
-    d_time: 5,
-    other: 'thanku'
-  },{
-    title: 'Lovely',
-    comment: 'no comments',
-    usefulness: 3,
-    reviewerName: 'ghi',
-    connection_level : 6,
-    ratings:1,
-    d_time: 4,
-    other: 'thanku'
-  },{
-    title: 'Beautiful',
-    comment: 'no comments',
-    usefulness: 2,
-    reviewerName: 'jkl',
-    connection_level : 8,
-    ratings:2,
-    d_time: 3,
-    other: 'thanku'
-  },{
-    title: 'gorgeous',
-    comment:  'no comments',
-    usefulness: '4',
-    reviewerName:'mno',
-    connection_level : 5,
-    ratings:3,
-    d_time: 25,
-    other: 'thanku'
-  },{
-    title: 'excellent',
-    comment:  'no comments',
-    usefulness: 3,
-    reviewerName:'pqr',
-    connection_level : 8,
-    ratings:4,
-    d_time: 3,
-    other: 'thanku'
-  },{
-    title: 'marvellous',
-    comment:  'no comments',
-    usefulness: 4,
-    reviewerName:'stu',
-    connection_level : 3,
-    ratings:1,
-    d_time: 5,
-    other: 'thanku'
-  },{
-    title: 'sweet',
-    comment: 'no comments',
-    usefulness: 2,
-    reviewerName:'vwx',
-    connection_level : 7,
-    ratings:2,
-    d_time: 2,
-    other: 'thanku'
-  }]
-},
-{
-  id: 2,
-  reviews:[{
-    title: 'gorgeous',
-    comment:  'no comments',
-    usefulness: '4',
-    reviewerName:'mno',
-    connection_level : 5,
-    ratings:3,
-    d_time: 25,
-    other: 'thanku'
-  },{
-    title: 'excellent',
-    comment:  'no comments',
-    usefulness: 3,
-    reviewerName:'pqr',
-    connection_level : 8,
-    ratings:4,
-    d_time: 3,
-    other: 'thanku'
-  },{
-    title: 'marvellous',
-    comment:  'no comments',
-    usefulness: 4,
-    reviewerName:'stu',
-    connection_level : 3,
-    ratings:1,
-    d_time: 5,
-    other: 'thanku'
-  },{
-    title: 'sweet',
-    comment: 'no comments',
-    usefulness: 2,
-    reviewerName:'vwx',
-    connection_level : 7,
-    ratings:2,
-    d_time: 2,
-    other: 'thanku'
-  },{
-    title: 'Awesome',
-    comment: 'no comments',
-    usefulness: 90,
-    reviewerName: 'abc',
-    connection_level : 3,
-    ratings:4,
-    d_time: 8,
-    other: 'thanku'
-  },{
-    title: 'Cool',
-    comment:'no comments',
-    usefulness: 5,
-    reviewerName: 'def',
-    connection_level : 7,
-    ratings:4,
-    d_time: 5,
-    other: 'thanku'
-  },{
-    title: 'Lovely',
-    comment: 'no comments',
-    usefulness: 3,
-    reviewerName: 'ghi',
-    connection_level : 6,
-    ratings:1,
-    d_time: 4,
-    other: 'thanku'
-  },{
-    title: 'Beautiful',
-    comment: 'no comments',
-    usefulness: 2,
-    reviewerName: 'jkl',
-    connection_level : 8,
-    ratings:2,
-    d_time: 3,
-    other: 'thanku'
-  }]
-}];
+           $scope.mydata1= response.data;
+           console.log($scope.mydata1);
+           for(var key in $scope.mydata1){
+             console.log(key);
+             console.log($scope.mydata1[key]);
+             if($scope.mydata1[key] == $scope.pid){
+               $scope.mydata3 = $scope.mydata1['reviews'];
+               console.log($scope.mydata3);
+             }
+           }
 
-//result according to product id in url
-for(var key in data){
+           $scope.getData = function () {
+             return $filter('filter')($scope.mydata3, $scope.q)
+           }
 
-  if(data[key].id == $scope.pid){
-    $scope.mydata = data[key].reviews;
+           $scope.numberOfPages=function(){
+               return Math.ceil($scope.getData().length/$scope.pageSize);
+           }
+           /////////////////////////////////////////////////////////////////////////////////////////////
 
-  }
-}
+
+         });
 
 //////////////////////////////////////////////////////////////////////////////////////////
 //Creating pagination in the APP
@@ -178,14 +40,6 @@ $scope.currentPage = 0;
 $scope.pageSize = 3;
 $scope.q = '';
 
-$scope.getData = function () {
-  return $filter('filter')($scope.mydata, $scope.q)
-}
-
-$scope.numberOfPages=function(){
-    return Math.ceil($scope.getData().length/$scope.pageSize);
-}
-/////////////////////////////////////////////////////////////////////////////////////////////
 
 
 }]);
