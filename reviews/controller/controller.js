@@ -8,7 +8,7 @@ App.controller('myctrl', ['$scope', '$stateParams','$filter','$http',function($s
      };
     $scope.myNumber = 5;
 
-    $http.get("http://www.i2ce.in/reviews/1/1")
+    $http.get("http://www.i2ce.in/reviews/"+$scope.pid+"/1")
          .then(function(response){
 
            $scope.mydata1= response.data;
