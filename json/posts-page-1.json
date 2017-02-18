@@ -1,0 +1,64 @@
+{
+"total": 20,
+"per_page": 5,
+"current_page": 1,
+"last_page": 1,
+"next_page_url": "json/posts-page-2.json",
+"prev_page_url": null,
+"from": 1,
+"to": 5,
+"data": [
+    {
+    "id": "21",
+    "post_date": "2017-02-19 10:18:17",
+    "post_author": "1",
+    "post_author_edited": null,
+    "post_title": "How to start learning Javascript",
+    "post_slug": "How to start learning Javascript",
+    "post_content": "blog1.md",
+    "post_status": "published",
+    "featured_image": null,
+    "created_at": "2017-02-19 10:18:17",
+    "updated_at": "2017-02-19 10:18:17",
+    "author": {
+    "id": "1",
+    "firstname": "Shyam",
+    "lastname": "Tayal",
+    "email": "admin@admin.com",
+    "profile_image": "https://graph.facebook.com/10152727389062860/picture",
+    "confirmed": "1",
+    "confirmation_code": null,
+    "created_at": "2017-02-19 10:18:17",
+    "updated_at": "2017-02-19 10:18:17"
+    },
+    "categories": [
+    {
+    "id": "2",
+    "user_id": "1",
+    "user_id_edited": "1",
+    "title": "html",
+    "slug": "html",
+    "created_at": "2015-05-11 10:00:45",
+    "updated_at": "2015-05-11 10:00:45",
+    "pivot": {
+    "post_id": "21",
+    "category_id": "2"
+    }
+    },
+    {
+    "id": "3",
+    "user_id": "1",
+    "user_id_edited": "1",
+    "title": "css",
+    "slug": "css",
+    "created_at": "2015-05-11 10:00:45",
+    "updated_at": "2015-05-11 10:00:45",
+    "pivot": {
+    "post_id": "21",
+    "category_id": "3"
+    }
+    }
+    ]
+}
+]
+}

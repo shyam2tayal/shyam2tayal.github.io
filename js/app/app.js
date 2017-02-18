@@ -1,5 +1,5 @@
 	// CREATE THE MODULE AND NAME IT cleanBlog
-	var app = angular.module("app", ["ngAnimate", "ui.router", "ngSanitize",]);
+	var app = angular.module("app", ["ngAnimate", "ui.router", "ngSanitize",'btford.markdown']);
 
 	app.run(['$rootScope', '$state', '$stateParams', function ($rootScope, $state, $stateParams)
 	{
