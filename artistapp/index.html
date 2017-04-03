@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html ng-app="artistApp">
+  <head>
+    <meta charset="utf-8">
+    <title> My new app</title>
+    <link href="//storage.googleapis.com/code.getmdl.io/1.0.0/material.blue_grey-teal.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link rel="shortcut icon" href="images/th.jpg">
+
+  </head>
+  <body ng-controller="mainController">
+
+
+    <div class="container" ng-if="formDemand">
+
+      <div class="mdl-layout mdl-js-layout mdl-layout--overlay-drawer-button">
+          <main class="mdl-layout__content">
+            <div class="page page-content">
+                <div class="mdl-grid">
+                    <div class="mdl-card coffee-pic mdl-cell mdl-cell--8-col" style="margin:auto;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                        <div class="mdl-card__media mdl-color-text--grey-50">
+                            <h3 class="center-align">Please fill out following fields</h3>
+                        </div>
+                        <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
+                          <form name="userForm" ng-submit="submitForm(user)" novalidate>
+
+                            <div class="group" ng-class="{ 'has-error' : userForm.name.$invalid && !userForm.name.$pristine }">
+                              <input type="text" name="name" ng-model="user.name" ng-pattern="/^$|^jack$/" required>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>Name</label>
+                              <p ng-show="userForm.name.$invalid && !userForm.name.$pristine" class="help-block">Name should be exact "jack"</p>
+
+
+                            </div>
+
+                            <div class="group" ng-class="{ 'has-error' : userForm.name.$invalid && !userForm.name.$pristine }">
+                              <input type="text" name="tracks" ng-model="user.tracks" ng-pattern="/^$|^4$/" required>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>No. of tracks</label>
+                              <p ng-show="userForm.tracks.$invalid && !userForm.tracks.$pristine" class="help-block">Number of tracks should be exact 4</p>
+                            </div>
+                            <div class="group">
+                            <button class="btn btn-success search_key" ng-disabled="userForm.$invalid">Search</button>
+                          </div>
+                          </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </main>
+        </div>
+
+
+    </div>
+
+    <div class="container" ng-if="!formDemand && !tabbedDemand">
+                    <div class="mdl-layout mdl-js-layout mdl-layout--overlay-drawer-button">
+                        <main class="mdl-layout__content">
+                          <div class="page page-content">
+                              <div class="mdl-grid">
+                                  <div class="mdl-card coffee-pic mdl-cell mdl-cell--8-col" style="margin:auto">
+                                      <div class="mdl-card__media mdl-color-text--grey-50">
+                                          <h3 class="center-align">Search for an artist</h3>
+                                      </div>
+                                      <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
+                                          <button class="btn btn-primary search_button" ng-click="hideMe()">Search for artist</button>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                        </main>
+                  </div>
+    </div>
+    <div class="container" ng-if="tabbedDemand">
+                    <div class="mdl-layout mdl-js-layout mdl-layout--overlay-drawer-button">
+                        <main class="mdl-layout__content">
+                          <div class="page page-content">
+                              <div class="mdl-grid">
+                                  <div class="mdl-card coffee-pic mdl-cell mdl-cell--8-col" style="margin:auto">
+                                      <div class="mdl-card__media mdl-color-text--grey-50">
+                                          <h3 class="center-align">Search Result for your query</h3>
+                                      </div>
+                                      <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
+                                        <div class="my_bar">
+                                          <ul>
+                                              <li ng-repeat="value in tabbedData"><a ng-class="{'active': $index==selectedIndex}" ng-click="fetch_me(value.artistName,$index)">{{value.artistName}}</a></li>
+
+                                          </ul>
+
+                                          <div class="display_area" ng-show="display_me">
+                                            <div class="mid">
+                                              <p><b>Artworkurl30</b>: {{user_data.artworkUrl30}}</p>
+                                              <p><b> Artist name</b> : {{user_data.artistName}}</p>
+                                              <p><b>Track name</b>: {{user_data.trackName}}</p>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                        </main>
+                  </div>
+    </div>
+
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.1/masonry.pkgd.min.js" type="text/javascript">  </script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+    <script src="//storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js" type="text/javascript"></script>
+
+    <script src="js/controller.js"></script>
+  </body>
+</html>
