@@ -1,6 +1,3 @@
-Since I’ve mentioned that I recently learned JavaScript, people have asked me how and what I recommend. So here’s my experience and best advice for 2016.
-
-Learn plain JavaScript
 
 First, it’s important to learn plain JavaScript.
 
