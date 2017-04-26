@@ -12,6 +12,15 @@ app.controller('myCtrl',function($scope, $http) {
           $scope.data  = x2js.xml_str2json(data.data);
           $scope.my_data = $scope.data.rss.channel;
           $scope.results = $scope.my_data.item;
+
+					angular.forEach($scope.results, function(value){
+
+						if(typeof(value.description) != "string" )
+						{
+							value.description = value.description.__cdata;
+						}
+					});
+
           console.log($scope.my_data);
       })
 
