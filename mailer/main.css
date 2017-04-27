@@ -13,13 +13,7 @@ body{
   margin-top: 8px;
 }
 
-.thankyou h1{
-  text-align: center;
-  margin: 0px;
-  font-size: 50px;
-  font-family: "Lucida Console", Monaco, monospace;
-  color:#7F61DD;
-}
+
 
 #purple{
   color: #7F61DD;
@@ -156,6 +150,13 @@ table tr {
       margin: auto;
       height: 40px;
   }
+  .thankyou h1{
+    text-align: center;
+    margin: 0px;
+    font-size: 42px;
+    font-family: "Lucida Console", Monaco, monospace;
+    color:#7F61DD;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -181,6 +182,13 @@ table tr {
     width: 15%;
     margin: auto;
     height: 40px;
+}
+.thankyou h1{
+  text-align: center;
+  margin: 0px;
+  font-size: 50px;
+  font-family: "Lucida Console", Monaco, monospace;
+  color:#7F61DD;
 }
 
 }
