@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f85d4efa-816c-4a1f-8bb0-e8a77fa02dad" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/json/posts-page-1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/json/posts-page-2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/json/posts-page-3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/json/posts-page-4.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/asd4.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/asd4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/asd5.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/asd5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/cloud.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/cloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/fb.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/gau.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/gau.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/gp.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/gp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/li.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/li.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/logo.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/mak.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/mak.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/pan.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/pan.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/pra.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/pra.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/pra.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/pra.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/ris.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/ris.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/sha.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/sha.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/share.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/shr.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/shr.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/shree.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/shree.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/son.jpg" afterPath="$PROJECT_DIR$/edentity/aboutus/img/son.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/speak.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/speak.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/stop.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/tw.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/tw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/use.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/use.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/vbh.png" afterPath="$PROJECT_DIR$/edentity/aboutus/img/vbh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/blue.jpg" afterPath="$PROJECT_DIR$/edentity/blog/img/blue.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/fb.png" afterPath="$PROJECT_DIR$/edentity/blog/img/fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/gp.png" afterPath="$PROJECT_DIR$/edentity/blog/img/gp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/li.png" afterPath="$PROJECT_DIR$/edentity/blog/img/li.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/logo.png" afterPath="$PROJECT_DIR$/edentity/blog/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/search.png" afterPath="$PROJECT_DIR$/edentity/blog/img/search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/img/tw.png" afterPath="$PROJECT_DIR$/edentity/blog/img/tw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/asd4.jpg" afterPath="$PROJECT_DIR$/edentity/img/asd4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/cloud.png" afterPath="$PROJECT_DIR$/edentity/img/cloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/fb.png" afterPath="$PROJECT_DIR$/edentity/img/fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/gp.png" afterPath="$PROJECT_DIR$/edentity/img/gp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/li.png" afterPath="$PROJECT_DIR$/edentity/img/li.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/logo.png" afterPath="$PROJECT_DIR$/edentity/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/share.png" afterPath="$PROJECT_DIR$/edentity/img/share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/speak.png" afterPath="$PROJECT_DIR$/edentity/img/speak.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/stop.png" afterPath="$PROJECT_DIR$/edentity/img/stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/tw.png" afterPath="$PROJECT_DIR$/edentity/img/tw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/asd4.jpg" afterPath="$PROJECT_DIR$/edentity/login/img/asd4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/fb.png" afterPath="$PROJECT_DIR$/edentity/login/img/fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/gp.png" afterPath="$PROJECT_DIR$/edentity/login/img/gp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/li.png" afterPath="$PROJECT_DIR$/edentity/login/img/li.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/logo.png" afterPath="$PROJECT_DIR$/edentity/login/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/tw.png" afterPath="$PROJECT_DIR$/edentity/login/img/tw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-bg.jpg" afterPath="$PROJECT_DIR$/img/about-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/contact-bg.jpg" afterPath="$PROJECT_DIR$/img/contact-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="$PROJECT_DIR$/img/home-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/post-bg.jpg" afterPath="$PROJECT_DIR$/img/post-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" afterPath="$PROJECT_DIR$/img/post-sample-image.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/s.jpg" afterPath="$PROJECT_DIR$/img/s.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js-cube.png" afterPath="$PROJECT_DIR$/js-cube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/check-01.png" afterPath="$PROJECT_DIR$/portfolio/check-01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/favicon.png" afterPath="$PROJECT_DIR$/portfolio/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.eot" afterPath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.ttf" afterPath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.woff" afterPath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfontd41d.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/1.png" afterPath="$PROJECT_DIR$/portfolio/img/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/2.png" afterPath="$PROJECT_DIR$/portfolio/img/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/3.png" afterPath="$PROJECT_DIR$/portfolio/img/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/4.png" afterPath="$PROJECT_DIR$/portfolio/img/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/5.png" afterPath="$PROJECT_DIR$/portfolio/img/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/6.png" afterPath="$PROJECT_DIR$/portfolio/img/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/back.jpg" afterPath="$PROJECT_DIR$/portfolio/img/back.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/banner6.jpg" afterPath="$PROJECT_DIR$/portfolio/img/banner6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/fb.png" afterPath="$PROJECT_DIR$/portfolio/img/fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/github.png" afterPath="$PROJECT_DIR$/portfolio/img/github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/gmail.png" afterPath="$PROJECT_DIR$/portfolio/img/gmail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/insta.png" afterPath="$PROJECT_DIR$/portfolio/img/insta.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/img/st.jpg" afterPath="$PROJECT_DIR$/portfolio/img/st.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/my_CV.pdf" afterPath="$PROJECT_DIR$/portfolio/my_CV.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/img/back.jpg" afterPath="$PROJECT_DIR$/project/img/back.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/img/favicon.png" afterPath="$PROJECT_DIR$/project/img/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/img/fb.ico" afterPath="$PROJECT_DIR$/project/img/fb.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/img/github2.png" afterPath="$PROJECT_DIR$/project/img/github2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/images/g.jpg" afterPath="$PROJECT_DIR$/reviews/images/g.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/images/product1.jpg" afterPath="$PROJECT_DIR$/reviews/images/product1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/images/product2.jpg" afterPath="$PROJECT_DIR$/reviews/images/product2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/Minutes/12032015_Chapter34.pdf" afterPath="$PROJECT_DIR$/sac/Minutes/12032015_Chapter34.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/Minutes/12032015_Chapter35.pdf" afterPath="$PROJECT_DIR$/sac/Minutes/12032015_Chapter35.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/Minutes/MOM SAC.pdf" afterPath="$PROJECT_DIR$/sac/Minutes/MOM SAC.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/Minutes/SAC Meeting Minutes (1).pdf" afterPath="$PROJECT_DIR$/sac/Minutes/SAC Meeting Minutes (1).pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/sac/css/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/font/fontello.eot" afterPath="$PROJECT_DIR$/sac/css/fontello/font/fontello.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/font/fontello.ttf" afterPath="$PROJECT_DIR$/sac/css/fontello/font/fontello.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/font/fontello.woff" afterPath="$PROJECT_DIR$/sac/css/fontello/font/fontello.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/35.jpg" afterPath="$PROJECT_DIR$/sac/img/35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/Thumbs.db" afterPath="$PROJECT_DIR$/sac/img/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/bhupi.jpg" afterPath="$PROJECT_DIR$/sac/img/bhupi.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/logoSMVDU.jpg" afterPath="$PROJECT_DIR$/sac/img/logoSMVDU.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/main.jpg" afterPath="$PROJECT_DIR$/sac/img/main.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/pic.jpg" afterPath="$PROJECT_DIR$/sac/img/pic.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/pic2.jpg" afterPath="$PROJECT_DIR$/sac/img/pic2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/img/sac.jpg" afterPath="$PROJECT_DIR$/sac/img/sac.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/favicon.ico" afterPath="$PROJECT_DIR$/shyam/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/gallery/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/bg.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/1.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/2.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/3.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/4.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/5.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/6.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/7.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/8.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/9.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/images/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/gallery/data1/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/10855081_1607766386111596_80873305117545986_o.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/10855081_1607766386111596_80873305117545986_o.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/10952146_1677833712438196_6713720465885195159_o.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/10952146_1677833712438196_6713720465885195159_o.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/10960028_1610392809182287_4045145320921777593_o.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/10960028_1610392809182287_4045145320921777593_o.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/11411819_1660264447528456_6156494960402317682_o.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/11411819_1660264447528456_6156494960402317682_o.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/11879169_1677833215771579_58568511175705044_o.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/data1/tooltips/11879169_1677833215771579_58568511175705044_o.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/arrows.png" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/arrows.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/bullet.png" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/bullet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/pause.png" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/pause.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/play.png" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/triangle.png" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/triangle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/favicon.ico" afterPath="$PROJECT_DIR$/shyam/gallery/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/gallery/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/1.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/12.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/13.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/16.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/17.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/18.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/19.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/2.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/20.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/21.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/22.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/23.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/24.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/25.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/26.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/27.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/28.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/29.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/30.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/31.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/32.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/33.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/34.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/35.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/36.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/37.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/38.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/39.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/4.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/5.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/6.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/7.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/8.jpg" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/portfolio/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/gallery/images/portfolio/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/loader.gif" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/sprite.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/btnNext.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/loader.gif" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/sprite.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/dark_square/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/default_thumb.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/default_thumb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/loader.gif" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_next.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_prev.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_prev.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_x.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_y.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/default/sprite_y.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/btnNext.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/btnPrevious.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/loader.gif" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/sprite.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/facebook/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/btnNext.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/loader.gif" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/sprite.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_rounded/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_square/btnNext.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_square/btnNext.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_square/btnPrevious.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_square/sprite.png" afterPath="$PROJECT_DIR$/shyam/gallery/images/prettyPhoto/light_square/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/img/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/gallery/img/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ADAM.CG PRO.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ADAM.CG PRO.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Adam.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Adam.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Audiowide.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Audiowide.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Aventura-Bold.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Aventura-Bold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Dense-Regular.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Dense-Regular.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Exo2-Regular.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Exo2-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/GRAYSTROKE ITALIC.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/GRAYSTROKE ITALIC.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/GRAYSTROKE REGULAR.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/GRAYSTROKE REGULAR.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Junction-bold.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Junction-bold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Junction-light.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Junction-light.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Junction-regular.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Junction-regular.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Langdon.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Langdon.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/MODERNE SANS.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/MODERNE SANS.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/NovaFlat.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/NovaFlat.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Scratch Basic.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Scratch Basic.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Scratch Basic.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Scratch Basic.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Sertig.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Sertig.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/Vincent-Regular.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/Vincent-Regular.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/seagle.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/seagle.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_initials.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_initials.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_initials.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_initials.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_main.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_main.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_main.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_main.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_text.otf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_text.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_text.ttf" afterPath="$PROJECT_DIR$/shyam/home/fonts/ss_adec/SS_Adec2.0_text.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/1.gif" afterPath="$PROJECT_DIR$/shyam/home/img/1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/10928729_10202518984776104_1538370671_n.jpg" afterPath="$PROJECT_DIR$/shyam/home/img/10928729_10202518984776104_1538370671_n.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/3.jpg" afterPath="$PROJECT_DIR$/shyam/home/img/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/home/img/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/as.png" afterPath="$PROJECT_DIR$/shyam/home/img/as.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/bc_block.png" afterPath="$PROJECT_DIR$/shyam/home/img/bc_block.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/birds.gif" afterPath="$PROJECT_DIR$/shyam/home/img/birds.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/date.png" afterPath="$PROJECT_DIR$/shyam/home/img/date.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/earth331.png" afterPath="$PROJECT_DIR$/shyam/home/img/earth331.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/facebook.png" afterPath="$PROJECT_DIR$/shyam/home/img/facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/favicon.ico" afterPath="$PROJECT_DIR$/shyam/home/img/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/header.ai" afterPath="$PROJECT_DIR$/shyam/home/img/header.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/header.gif" afterPath="$PROJECT_DIR$/shyam/home/img/header.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/header1.ai" afterPath="$PROJECT_DIR$/shyam/home/img/header1.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/mail.png" afterPath="$PROJECT_DIR$/shyam/home/img/mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/ribbon.png" afterPath="$PROJECT_DIR$/shyam/home/img/ribbon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/rocketevent.png" afterPath="$PROJECT_DIR$/shyam/home/img/rocketevent.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/smvdu.png" afterPath="$PROJECT_DIR$/shyam/home/img/smvdu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/smvdumap.jpg" afterPath="$PROJECT_DIR$/shyam/home/img/smvdumap.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/1.png" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/2.jpg" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/3.png" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/4.png" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/5.png" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/6.png" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/7.png" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/Thumbs.db" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/sponsors/birds.gif" afterPath="$PROJECT_DIR$/shyam/home/img/sponsors/birds.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/style3.png" afterPath="$PROJECT_DIR$/shyam/home/img/style3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/t15_508.png" afterPath="$PROJECT_DIR$/shyam/home/img/t15_508.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/twitter.png" afterPath="$PROJECT_DIR$/shyam/home/img/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/wc.png" afterPath="$PROJECT_DIR$/shyam/home/img/wc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/img/x.png" afterPath="$PROJECT_DIR$/shyam/home/img/x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/person.png" afterPath="$PROJECT_DIR$/shyam/register/person.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-router/g.jpg" afterPath="$PROJECT_DIR$/ui-router/g.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/check-01.png" afterPath="$PROJECT_DIR$/viralpost/check-01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/favicon.png" afterPath="$PROJECT_DIR$/viralpost/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.eot" afterPath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.ttf" afterPath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.woff" afterPath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfontd41d.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/1.png" afterPath="$PROJECT_DIR$/viralpost/img/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/10.png" afterPath="$PROJECT_DIR$/viralpost/img/10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/2.png" afterPath="$PROJECT_DIR$/viralpost/img/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/3.png" afterPath="$PROJECT_DIR$/viralpost/img/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/4.png" afterPath="$PROJECT_DIR$/viralpost/img/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/5.png" afterPath="$PROJECT_DIR$/viralpost/img/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/6.png" afterPath="$PROJECT_DIR$/viralpost/img/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/7.png" afterPath="$PROJECT_DIR$/viralpost/img/7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/8.png" afterPath="$PROJECT_DIR$/viralpost/img/8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/9.png" afterPath="$PROJECT_DIR$/viralpost/img/9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/about.png" afterPath="$PROJECT_DIR$/viralpost/img/about.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/banner10.jpg" afterPath="$PROJECT_DIR$/viralpost/img/banner10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/banner6.jpg" afterPath="$PROJECT_DIR$/viralpost/img/banner6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/fb.png" afterPath="$PROJECT_DIR$/viralpost/img/fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/github.png" afterPath="$PROJECT_DIR$/viralpost/img/github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/gmail.png" afterPath="$PROJECT_DIR$/viralpost/img/gmail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/how.png" afterPath="$PROJECT_DIR$/viralpost/img/how.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/img1.png" afterPath="$PROJECT_DIR$/viralpost/img/img1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/img2.png" afterPath="$PROJECT_DIR$/viralpost/img/img2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/img3.png" afterPath="$PROJECT_DIR$/viralpost/img/img3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/insta.png" afterPath="$PROJECT_DIR$/viralpost/img/insta.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/logo1.png" afterPath="$PROJECT_DIR$/viralpost/img/logo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/img/logo2.png" afterPath="$PROJECT_DIR$/viralpost/img/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog1.md" afterPath="$PROJECT_DIR$/blog1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/.gitignore" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/.travis.yml" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/README.md" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/karma.conf.js" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/markdown.js" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/markdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/markdown.spec.js" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/markdown.spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-markdown-directive/package.json" afterPath="$PROJECT_DIR$/bower_components/angular-markdown-directive/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/LICENSE.md" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/index.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/angular-sanitize/package.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/.bower.json" afterPath="$PROJECT_DIR$/bower_components/showdown/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/.jshintignore" afterPath="$PROJECT_DIR$/bower_components/showdown/.jshintignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/.travis.yml" afterPath="$PROJECT_DIR$/bower_components/showdown/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/Gruntfile.js" afterPath="$PROJECT_DIR$/bower_components/showdown/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/README.md" afterPath="$PROJECT_DIR$/bower_components/showdown/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/bower.json" afterPath="$PROJECT_DIR$/bower_components/showdown/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/Showdown.js" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/Showdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/Showdown.js.map" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/Showdown.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/Showdown.min.js" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/Showdown.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/github.min.js" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/github.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/github.min.js.map" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/github.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/prettify.min.js" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/prettify.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/prettify.min.js.map" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/prettify.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/table.min.js" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/table.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/table.min.js.map" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/table.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/twitter.min.js" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/twitter.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/twitter.min.js.map" afterPath="$PROJECT_DIR$/bower_components/showdown/compressed/extensions/twitter.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/license.txt" afterPath="$PROJECT_DIR$/bower_components/showdown/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/package.json" afterPath="$PROJECT_DIR$/bower_components/showdown/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/src/extensions/github.js" afterPath="$PROJECT_DIR$/bower_components/showdown/src/extensions/github.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/src/extensions/prettify.js" afterPath="$PROJECT_DIR$/bower_components/showdown/src/extensions/prettify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/src/extensions/table.js" afterPath="$PROJECT_DIR$/bower_components/showdown/src/extensions/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/src/extensions/twitter.js" afterPath="$PROJECT_DIR$/bower_components/showdown/src/extensions/twitter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/src/ng-showdown.js" afterPath="$PROJECT_DIR$/bower_components/showdown/src/ng-showdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/showdown/src/showdown.js" afterPath="$PROJECT_DIR$/bower_components/showdown/src/showdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/clean-blog.css" afterPath="$PROJECT_DIR$/css/clean-blog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/clean-blog.min.css" afterPath="$PROJECT_DIR$/css/clean-blog.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/.directory" afterPath="$PROJECT_DIR$/edentity/.directory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/aboutus.html" afterPath="$PROJECT_DIR$/edentity/aboutus/aboutus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/css/main.css" afterPath="$PROJECT_DIR$/edentity/aboutus/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/aboutus/img/.directory" afterPath="$PROJECT_DIR$/edentity/aboutus/img/.directory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/blog.html" afterPath="$PROJECT_DIR$/edentity/blog/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/css/asd.css" afterPath="$PROJECT_DIR$/edentity/blog/css/asd.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/blog/css/main.css" afterPath="$PROJECT_DIR$/edentity/blog/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/css/main.css" afterPath="$PROJECT_DIR$/edentity/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/img/.directory" afterPath="$PROJECT_DIR$/edentity/img/.directory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/index.html" afterPath="$PROJECT_DIR$/edentity/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/css/main.css" afterPath="$PROJECT_DIR$/edentity/login/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/img/.directory" afterPath="$PROJECT_DIR$/edentity/login/img/.directory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edentity/login/login.html" afterPath="$PROJECT_DIR$/edentity/login/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/README.txt" afterPath="$PROJECT_DIR$/githubrepo/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/babel/index.babel" afterPath="$PROJECT_DIR$/githubrepo/babel/index.babel" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/css/normalize.css" afterPath="$PROJECT_DIR$/githubrepo/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/css/style.css" afterPath="$PROJECT_DIR$/githubrepo/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/index.html" afterPath="$PROJECT_DIR$/githubrepo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/index.jade" afterPath="$PROJECT_DIR$/githubrepo/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/js/index.js" afterPath="$PROJECT_DIR$/githubrepo/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/githubrepo/stylus/style.stylus" afterPath="$PROJECT_DIR$/githubrepo/stylus/style.stylus" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular-animate.min.js" afterPath="$PROJECT_DIR$/js/angular/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/js/angular/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/js/angular/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/angular/angular.min.js" afterPath="$PROJECT_DIR$/js/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/app.js" afterPath="$PROJECT_DIR$/js/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery/jquery.js" afterPath="$PROJECT_DIR$/js/jquery/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/js/jquery/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/json/post.json" afterPath="$PROJECT_DIR$/json/post.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/clean-blog.less" afterPath="$PROJECT_DIR$/less/clean-blog.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/mixins.less" afterPath="$PROJECT_DIR$/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="$PROJECT_DIR$/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/contact_me.php" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/phpmailer/PHPMailerAutoload.php" afterPath="$PROJECT_DIR$/mail/phpmailer/PHPMailerAutoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/phpmailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/mail/phpmailer/class.phpmailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/phpmailer/class.smtp.php" afterPath="$PROJECT_DIR$/mail/phpmailer/class.smtp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makemyband/css/normalize.css" afterPath="$PROJECT_DIR$/makemyband/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makemyband/css/style.css" afterPath="$PROJECT_DIR$/makemyband/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makemyband/display.html" afterPath="$PROJECT_DIR$/makemyband/display.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makemyband/index.html" afterPath="$PROJECT_DIR$/makemyband/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makemyband/js/app.js" afterPath="$PROJECT_DIR$/makemyband/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makemyband/js/index.js" afterPath="$PROJECT_DIR$/makemyband/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact.html" afterPath="$PROJECT_DIR$/pages/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home.html" afterPath="$PROJECT_DIR$/pages/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/page.html" afterPath="$PROJECT_DIR$/pages/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/post.html" afterPath="$PROJECT_DIR$/pages/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/AjaxLoader.html" afterPath="$PROJECT_DIR$/portfolio/css/AjaxLoader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/portfolio/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/portfolio/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/grabbing.html" afterPath="$PROJECT_DIR$/portfolio/css/grabbing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/owl.carousel.css" afterPath="$PROJECT_DIR$/portfolio/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/owl.theme.css" afterPath="$PROJECT_DIR$/portfolio/css/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/css/social-sharing.css" afterPath="$PROJECT_DIR$/portfolio/css/social-sharing.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/portfolio/fonts/awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.svg" afterPath="$PROJECT_DIR$/portfolio/fonts/awesome/fonts/fontawesome-webfont862f.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/portfolio/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.html" afterPath="$PROJECT_DIR$/portfolio/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/js/index.js" afterPath="$PROJECT_DIR$/portfolio/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/style.css" afterPath="$PROJECT_DIR$/portfolio/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/project/css/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/project/css/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/project/css/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/project/css/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/project/css/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/css/style.css" afterPath="$PROJECT_DIR$/project/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/index.html" afterPath="$PROJECT_DIR$/project/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/js/angular/angular-route.min.js" afterPath="$PROJECT_DIR$/project/js/angular/angular-route.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/js/angular/angular.min.js" afterPath="$PROJECT_DIR$/project/js/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/js/app.js" afterPath="$PROJECT_DIR$/project/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/js/controllers/MainController.js" afterPath="$PROJECT_DIR$/project/js/controllers/MainController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/app.js" afterPath="$PROJECT_DIR$/reviews/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/controller/controller.js" afterPath="$PROJECT_DIR$/reviews/controller/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/index.html" afterPath="$PROJECT_DIR$/reviews/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/package.json" afterPath="$PROJECT_DIR$/reviews/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/style/style.css" afterPath="$PROJECT_DIR$/reviews/style/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/views/display.html" afterPath="$PROJECT_DIR$/reviews/views/display.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews/views/home.html" afterPath="$PROJECT_DIR$/reviews/views/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/README.md" afterPath="$PROJECT_DIR$/sac/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/contact.html" afterPath="$PROJECT_DIR$/sac/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/animate.css" afterPath="$PROJECT_DIR$/sac/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/body.css" afterPath="$PROJECT_DIR$/sac/css/body.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/sac/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/contact.css" afterPath="$PROJECT_DIR$/sac/css/contact.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/default.css" afterPath="$PROJECT_DIR$/sac/css/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/sac/css/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/sac/css/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/css/animation.css" afterPath="$PROJECT_DIR$/sac/css/fontello/css/animation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/css/fontello-codes.css" afterPath="$PROJECT_DIR$/sac/css/fontello/css/fontello-codes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/css/fontello-embedded.css" afterPath="$PROJECT_DIR$/sac/css/fontello/css/fontello-embedded.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/css/fontello-ie7-codes.css" afterPath="$PROJECT_DIR$/sac/css/fontello/css/fontello-ie7-codes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/css/fontello-ie7.css" afterPath="$PROJECT_DIR$/sac/css/fontello/css/fontello-ie7.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/css/fontello.css" afterPath="$PROJECT_DIR$/sac/css/fontello/css/fontello.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fontello/font/fontello.svg" afterPath="$PROJECT_DIR$/sac/css/fontello/font/fontello.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts.css" afterPath="$PROJECT_DIR$/sac/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-demo.html" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-bold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-demo.html" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/montserrat/montserrat-regular-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Bold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Italic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Light-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-LightItalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Regular-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-Semibold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" afterPath="$PROJECT_DIR$/sac/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/layout.css" afterPath="$PROJECT_DIR$/sac/css/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/media-queries.css" afterPath="$PROJECT_DIR$/sac/css/media-queries.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/members.css" afterPath="$PROJECT_DIR$/sac/css/members.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/sac/css/prettyPhoto.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/sacminutes.css" afterPath="$PROJECT_DIR$/sac/css/sacminutes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/css/studentsboards.css" afterPath="$PROJECT_DIR$/sac/css/studentsboards.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/index.html" afterPath="$PROJECT_DIR$/sac/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/js/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/sac/js/jquery-1.10.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/sac/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/js/jquery.flexslider.js" afterPath="$PROJECT_DIR$/sac/js/jquery.flexslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/sac/js/jquery.prettyPhoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/js/main.js" afterPath="$PROJECT_DIR$/sac/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/js/modernizr.js" afterPath="$PROJECT_DIR$/sac/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/members.html" afterPath="$PROJECT_DIR$/sac/members.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/sacminutes.html" afterPath="$PROJECT_DIR$/sac/sacminutes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sac/studentsboards.html" afterPath="$PROJECT_DIR$/sac/studentsboards.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/css/style.css" afterPath="$PROJECT_DIR$/search/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/index.html" afterPath="$PROJECT_DIR$/search/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/js/index.js" afterPath="$PROJECT_DIR$/search/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/js/prefixfree.min.js" afterPath="$PROJECT_DIR$/search/js/prefixfree.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/.htaccess" afterPath="$PROJECT_DIR$/shyam/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact.html" afterPath="$PROJECT_DIR$/shyam/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/README.txt" afterPath="$PROJECT_DIR$/shyam/contact/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/css/style.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/shyam/contact/assets/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/jquery-1.11.1.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/jquery-1.11.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/jquery-1.11.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/jquery.backstretch.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/jquery.backstretch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/jquery.backstretch.min.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/jquery.backstretch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/placeholder.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/retina-1.1.0.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/retina-1.1.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/retina-1.1.0.min.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/retina-1.1.0.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/assets/js/scripts.js" afterPath="$PROJECT_DIR$/shyam/contact/assets/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/contact.html" afterPath="$PROJECT_DIR$/shyam/contact/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/contact/css/style.css" afterPath="$PROJECT_DIR$/shyam/contact/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/css/reset.css" afterPath="$PROJECT_DIR$/shyam/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/css/style.css" afterPath="$PROJECT_DIR$/shyam/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/database/readme.md" afterPath="$PROJECT_DIR$/shyam/database/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/database/titiksha16.sql" afterPath="$PROJECT_DIR$/shyam/database/titiksha16.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/db.php" afterPath="$PROJECT_DIR$/shyam/db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events.html" afterPath="$PROJECT_DIR$/shyam/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/shyam/events/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/css/eventstyle.css" afterPath="$PROJECT_DIR$/shyam/events/css/eventstyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/css/reset.css" afterPath="$PROJECT_DIR$/shyam/events/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/css/spectrum.css" afterPath="$PROJECT_DIR$/shyam/events/css/spectrum.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/css/spectrum.js" afterPath="$PROJECT_DIR$/shyam/events/css/spectrum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/events.html" afterPath="$PROJECT_DIR$/shyam/events/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/shyam/events/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/jsevents.js" afterPath="$PROJECT_DIR$/shyam/events/jsevents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/events/turnBox.js" afterPath="$PROJECT_DIR$/shyam/events/turnBox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery.html" afterPath="$PROJECT_DIR$/shyam/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/animate.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/bootstrap.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/flexslider.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/flexslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/owl.carousel.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/owl.theme.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/portrait.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/portrait.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/prettyPhoto.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/css/style.css" afterPath="$PROJECT_DIR$/shyam/gallery/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/jquery.js" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/script.js" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/style.css" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/style.mod.css" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/style.mod.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/wowslider.js" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/wowslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/engine1/wowslider.mod.js" afterPath="$PROJECT_DIR$/shyam/gallery/engine1/wowslider.mod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/shyam/gallery/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shyam/gallery/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/gallery.html" afterPath="$PROJECT_DIR$/shyam/gallery/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/img/glyphicons-halflings-white.html" afterPath="$PROJECT_DIR$/shyam/gallery/img/glyphicons-halflings-white.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/img/glyphicons-halflings.html" afterPath="$PROJECT_DIR$/shyam/gallery/img/glyphicons-halflings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/bootstrap.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/custom.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery-1.6.1.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery-1.6.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.appear.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.appear.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.easing.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.easing.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.fitvids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.flexslider-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.prettyPhoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.quicksand.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.quicksand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.scrollTo.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.scrollTo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.sticky.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/jquery.tweet.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/jquery.tweet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/modernizr.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/script.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/stellar.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/stellar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/waypoints.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/waypoints.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/gallery/js/wow.min.js" afterPath="$PROJECT_DIR$/shyam/gallery/js/wow.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/README.md" afterPath="$PROJECT_DIR$/shyam/home/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/css/normalize.css" afterPath="$PROJECT_DIR$/shyam/home/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/css/responsive-nav.css" afterPath="$PROJECT_DIR$/shyam/home/css/responsive-nav.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/css/responsive.css" afterPath="$PROJECT_DIR$/shyam/home/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/css/slidebars.min.css" afterPath="$PROJECT_DIR$/shyam/home/css/slidebars.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/css/style.css" afterPath="$PROJECT_DIR$/shyam/home/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/css/styleform.css" afterPath="$PROJECT_DIR$/shyam/home/css/styleform.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/home.html" afterPath="$PROJECT_DIR$/shyam/home/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/custom.js" afterPath="$PROJECT_DIR$/shyam/home/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/index.js" afterPath="$PROJECT_DIR$/shyam/home/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/shyam/home/js/jquery-2.1.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/modernizr.js" afterPath="$PROJECT_DIR$/shyam/home/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/responsive-nav.min.js" afterPath="$PROJECT_DIR$/shyam/home/js/responsive-nav.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/skrollr.min.js" afterPath="$PROJECT_DIR$/shyam/home/js/skrollr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/home/js/slidebars.min.js" afterPath="$PROJECT_DIR$/shyam/home/js/slidebars.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/index.html" afterPath="$PROJECT_DIR$/shyam/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/js/jquery-2.1.1.js" afterPath="$PROJECT_DIR$/shyam/js/jquery-2.1.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/js/main.js" afterPath="$PROJECT_DIR$/shyam/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/js/modernizr.js" afterPath="$PROJECT_DIR$/shyam/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register.html" afterPath="$PROJECT_DIR$/shyam/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/shyam/register/assets/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/css/form-elements.css" afterPath="$PROJECT_DIR$/shyam/register/assets/css/form-elements.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/css/style.css" afterPath="$PROJECT_DIR$/shyam/register/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/shyam/register/assets/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/jquery-1.11.1.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/jquery-1.11.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/jquery-1.11.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/jquery.backstretch.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/jquery.backstretch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/jquery.backstretch.min.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/jquery.backstretch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/placeholder.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/retina-1.1.0.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/retina-1.1.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/retina-1.1.0.min.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/retina-1.1.0.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/assets/js/scripts.js" afterPath="$PROJECT_DIR$/shyam/register/assets/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/register/register.html" afterPath="$PROJECT_DIR$/shyam/register/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team.html" afterPath="$PROJECT_DIR$/shyam/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/shyam/team/assets/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/css/form-elements.css" afterPath="$PROJECT_DIR$/shyam/team/assets/css/form-elements.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/css/style.css" afterPath="$PROJECT_DIR$/shyam/team/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/shyam/team/assets/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/jquery-1.11.1.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/jquery-1.11.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/jquery-1.11.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/jquery.backstretch.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/jquery.backstretch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/jquery.backstretch.min.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/jquery.backstretch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/placeholder.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/retina-1.1.0.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/retina-1.1.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/retina-1.1.0.min.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/retina-1.1.0.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/assets/js/scripts.js" afterPath="$PROJECT_DIR$/shyam/team/assets/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shyam/team/team.html" afterPath="$PROJECT_DIR$/shyam/team/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-router/app.js" afterPath="$PROJECT_DIR$/ui-router/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-router/display.html" afterPath="$PROJECT_DIR$/ui-router/display.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-router/index.html" afterPath="$PROJECT_DIR$/ui-router/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-router/index.js" afterPath="$PROJECT_DIR$/ui-router/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-router/style.css" afterPath="$PROJECT_DIR$/ui-router/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/css/animate-custom.css" afterPath="$PROJECT_DIR$/viralpost/css/animate-custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/viralpost/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/viralpost/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/css/demo.css" afterPath="$PROJECT_DIR$/viralpost/css/demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/css/style.css" afterPath="$PROJECT_DIR$/viralpost/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/viralpost/fonts/awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.svg" afterPath="$PROJECT_DIR$/viralpost/fonts/awesome/fonts/fontawesome-webfont862f.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/viralpost/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/index.html" afterPath="$PROJECT_DIR$/viralpost/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viralpost/style.css" afterPath="$PROJECT_DIR$/viralpost/style.css" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>post.js</find>
+      <find>limitHtml</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/json/posts-page-2.json" />
+        <option value="$PROJECT_DIR$/json/posts-page-1.json" />
+        <option value="$PROJECT_DIR$/pages/post.html" />
+        <option value="$PROJECT_DIR$/json/post.json" />
+        <option value="$PROJECT_DIR$/blog1.md" />
+        <option value="$PROJECT_DIR$/js/app/app.js" />
+        <option value="$PROJECT_DIR$/pages/home.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js" />
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shyam2tayal.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shyam2tayal.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shyam2tayal.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shyam2tayal.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shyam2tayal.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shyam2tayal.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shyam2tayal.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shyam2tayal.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shyam2tayal.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shyam2tayal.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85d4efa-816c-4a1f-8bb0-e8a77fa02dad" name="Default" comment="" />
+      <created>1501126816128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501126816128</updated>
+      <workItem from="1501126819842" duration="1455000" />
+      <workItem from="1501171944820" duration="5333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6788000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2083013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#4078#4163#0" expanded="false" />
+            <element signature="e#4268#6165#0" expanded="false" />
+            <element signature="e#6214#6426#0" expanded="false" />
+            <element signature="e#6505#6554#0" expanded="false" />
+            <marker date="1501177109090" expanded="true" signature="1225:1231" ph="←" />
+            <marker date="1501177109090" expanded="true" signature="1380:1386" ph="→" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/post.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/posts-page-1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/posts-page-2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/posts-page-1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="111" lean-forward="false" selection-start-line="20" selection-start-column="111" selection-end-line="20" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/post.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#4078#4163#0" expanded="false" />
+            <element signature="e#4268#6165#0" expanded="false" />
+            <element signature="e#6214#6426#0" expanded="false" />
+            <element signature="e#6505#6554#0" expanded="false" />
+            <marker date="1501177109090" expanded="true" signature="1225:1231" ph="←" />
+            <marker date="1501177109090" expanded="true" signature="1380:1386" ph="→" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
