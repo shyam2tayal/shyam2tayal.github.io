@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html ng-app="shyam" ng-controller="myCtrl">
+
+<head>
+  <title> RSS FETCH APP </title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//storage.googleapis.com/code.getmdl.io/1.0.1/material.teal-red.min.css" />
+    <link rel="shortcut icon" href="images/favicon.jpg">
+</head>
+<body style="overflow-x:hidden;background:aliceblue">
+
+  <div class="wrapper">
+
+            <div class="row">
+              <div class="col-md-12">
+
+                      <div class="col-sm-12 col-md-2" style="margin-top:25px">
+                          <h5 style="color:orange">Rss Fetch App </h5>
+                      </div>
+
+                      <div class="col-md-7" style="margin-top:35px">
+                        <div class="col-md-12 col-sm-12" style="float:left;">
+                          <input type="text"  placeholder="Enter the RSS Url" ng-model="rss_url" class="form-control typeahead" id="search" autofocus="" autocomplete="off" style=" box-sizing:content-box; -webkit-box-sizing: content-box;box-shadow:0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08)" >
+                       </div>
+                     </div>
+                      <div class="col-md-2" style="margin-top:35px">
+                        <button class="btn btn-success" ng-click="show_me()" style="width:100%;height:48px">Fetch </button>
+                      </div>
+              </div>
+            </div>
+
+            <div class="row" id="grid" style="margin-top:50px;display:none;background-color:white">
+                  <div class="col-sm-12 input-group" >
+                       <div class="mdl-layout">
+                          <main class="mdl-layout__content">
+                              <h5 style="margin-left:20px">Found {{my_data.item.length}} Results for <b>{{my_data.description}}</b> Rss </h5>
+                              <div class="mdl-grid">
+                                <div class="mdl-card mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-shadow--2dp" ng-repeat="value in results" style="margin:0px;border-right: 1px dashed #dddddd;border-bottom: 1px dashed #dddddd;box-shadow: none;width:25%">
+                                  <a ng-href={{value.link}} style="padding:20px">
+                                    <figure class="mdl-card__media">
+                                         <img ng-src="{{value.thumbnail._url}}" style="width:100%">
+                                       </figure>
+                                     <div class="mdl-card__title" style="padding:0px 16px;margin-top:10px">
+                                       <h2 class="mdl-card__title-text" style="font-size:14px">{{value.title}}</h2>
+
+                                     </div>
+                                      <div class="mdl-card__supporting-text" style="padding:0px 16px;">
+                                       <p style="font-size:10px">{{value.description}}</p>
+                                     </div>
+                                   </a>
+                              </div>
+                           </div>
+                      </main>
+                    </div>
+              </div>
+          </div>
+
+
+  </div>
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+ <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.min.js"></script>
+ <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+ <script src="//storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js"></script>
+<script src="js/controller.js"></script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+html, body {
+ margin: 0;
+ padding: 0;
+ font-family: 'oswald', sans-serif;
+ width:auto;
+background : linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("../img/back.jpg");
+
+   
+
+}
+
+
+
+      
+
+
+.header {
+ padding: 15px;
+}
+
+.header img {
+   display: inline-block;
+}
+
+.header h1 {
+   display: inline-block;
+}
+
+.main {
+   
+ padding: 40px 0;
+}
+
+h1{
+   color:#fff;
+   text-align: center;
+}
+
+.main h1 {
+ color:#fff;
+ font-size: 60px;
+ 
+ padding: 20px 0;
+   line-height: 60px;
+   
+   text-align: center;
+}
+
+
+
+.thumbnail {
+ border: 0px;
+ position: relative;
+ padding: 30px;
+ width: 100%;
+   border-radius: 0;
+   margin-bottom:30px;
+   background-color : transparent;
+
+}
+
+.thumbnail img {
+   margin-top: 10px;
+ margin-bottom: 30px;
+ max-width: 100%;
+
+}
+
+
+.price {
+ background-color: #39D1B4 ;
+ color: #fff;
+ font-size: 18px;
+   border-radius: 10%;
+   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+   font-weight: 350;
+   height: 20px;
+   line-height: 20px;
+   text-align: center;
+   width: auto;
+ position: absolute;
+ top: 100px;
+ right: 30%;
+}
+
+.email{
+   position: absolute;
+   text-align: center;
+    top: 110px;
+ right: 25%;
+}
+
+
+
+
+.footer {
+ text-align: right;
+ background-color: black;
+ color:white;
+}
+
+.shyam{
+  background-color: #39D1B4 ;
+ color: #fff;
+ font-size: 18px;
+   border-radius: 50%;
+   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+   font-weight: 200;
+   height: 40px;
+   line-height: 40px;
+   text-align: center;
+   width: 40px;
+ position: absolute;
+ top: 40px;
+ right:28%;
+}
+
+.container-img{
+   width:5%;
+   height:5%;
+
+}
+
+.data{
+   background-color: #39D1B4;
+   width:70%;
+   border-style: dashed;
+
+
+}
+.top-buffer { margin-top:60px; }

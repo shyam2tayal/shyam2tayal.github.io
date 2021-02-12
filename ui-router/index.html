@@ -1,0 +1,90 @@
+<html ng-app='routingApp' >
+	<head>
+		<title>Make my Band</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body class="container">
+		
+
+	<h2 style="text-align:center"><i>  Please fill up to let us know</i> </h2>		
+
+		<div class="container">
+<div class="row">  
+   
+<div class="col-sm-6" style="margin-left:24%;margin-top:50px;margin-bottom:10%">
+    <!-- FORM ============ -->
+  
+    <form name="userForm" ng-submit="#" novalidate>
+
+        <!-- NAME -->
+        <div class="form-group" ng-class="{ 'has-error' : userForm.name.$invalid && !userForm.name.$pristine }">
+            <label>Name</label>
+            <input type="text" name="name" class="form-control" ng-model="user.name" ng-pattern="/^[a-zA-Z0-9\.]*$/" required>
+            
+            <p ng-show="userForm.name.$invalid && !userForm.name.$pristine" class="help-block"> Invalid Name</p>
+        </div>
+      
+       
+        
+        <!-- EMAIL -->
+        <div class="form-group" ng-class="{ 'has-error' : userForm.email.$invalid && !userForm.email.$pristine }">
+            <label>Email</label>
+            <input type="email" name="email" class="form-control" ng-model="user.email">
+            <p ng-show="userForm.email.$invalid && !userForm.email.$pristine" class="help-block">Enter a valid email.</p>
+        </div>
+
+  
+
+        <!-- LOCATION-->
+         <div class="form-group">
+         <label>Location</label>
+        <select class="form-control" name="city" ng-model="user.city">
+        <option>Delhi</option>
+        <option>Noida</option>
+        <option>Mumbai</option>
+        <option>Bangalore</option>
+      </select>
+      </div>
+
+
+      <!--INSTRUMENTA -->
+
+         <div class="form-group" ng-class="{ 'has-error' : userForm.instrument.$invalid && !userForm.instrument.$pristine }">
+      <label for="sel2">Instruments(hold shift to select more than one):</label>
+      <select multiple class="form-control" name="instrument" ng-model="user.instrument" required>
+        <option>Guitar</option>
+        <option>Drum</option>
+        <option>Flute</option>
+        <option>Violin</option>
+        
+      </select>
+      <p ng-show="userForm.instrument.$invalid && !userForm.instrument.$pristine" class="help-block">Please Select one or more instruments using shift key.</p>
+      </div>
+        
+        <button ui-sref="display" class="btn btn-primary" ng-disabled="userForm.$invalid">Submit</button>
+        
+    </form>
+
+  
+
+
+
+    <div class="container">
+    <div ui-view></div>
+</div>
+
+
+
+		
+  </div>
+ 
+</div>
+</div>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.js"></script>
+		<script src="http://angular-ui.github.io/ui-router/release/angular-ui-router.js"></script>
+		<script src="index.js"></script>
+		<script src="app.js"></script>
+	</body>
+</html>

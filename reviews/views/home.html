@@ -1,0 +1,30 @@
+<h2 style="text-align:center"><i>  Hey There !!!</i> </h2>
+
+<h3> Welcome to reviews fetching App!</h3>
+
+<h4> Without wasting much of your time lemme tell you how it works!!</h4>
+
+<div class="funny">
+
+  <h4> I am a grown app now and have many much products ,2 are below rest can be accessed by url </h4>
+	<h4> simple place any number at place of product id in below url </h4>
+
+  <div class="row sam1">
+    <div class="col-md-3">
+        <b><h4>PRODUCT ID : 1 </p></b>
+        <img src="images/product1.jpg" ui-sref="reviews({pid:1})">
+        <p>Either click on the image or Manually <br>
+          enter <b>BASE_URL/reviews/1/1</b></p>
+    </div>
+
+    <div class="col-md-3" style="margin-left:100px;">
+      <b><h4>PRODUCT ID : 2 </p></b>{{pid}}
+      <img src="images/product2.jpg" ui-sref="reviews({pid:2})">
+      <p>Either click on the image or Manually <br>
+        enter <b>BASE_URL/reviews/2/1</b></p> 
+    </div>
+
+</div>
+  <div class="container">
+  <div ui-view></div>
+</div>
