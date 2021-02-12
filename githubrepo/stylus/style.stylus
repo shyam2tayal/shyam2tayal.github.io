@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900)
+$primary = #0099aa
+
+*
+  box-sizing border-box
+  
+body
+  margin-top 2rem
+  font-family 'Lato', sans-serif
+  background lighten($primary, 7)
+  color white
+  -webkit-font-smoothing antialiased
+  font-size 1.1rem
+  
+  
+// searchbox component
+.searchbox
+  max-width 20rem
+  margin 1rem auto
+  
+  &__input
+    height 3rem
+    width 100%
+    box-shadow none
+    border none
+    padding 0 1rem
+    color darken($primary, 20)
+    border-radius .2rem
+    
+  &__button
+    width 100%
+    padding 1rem 2rem
+    border none
+    margin 1rem 0 0 0
+    background lighten($primary, 20)
+    color darken($primary, 10)
+    font-weight 700
+    border-radius .4rem
+    
+    &:hover 
+      background lighten($primary, 15)
+
+// the card component
+.card
+  position relative
+  background lighten($primary, 5)
+  max-width 20rem
+  margin 7rem auto 2rem
+  border solid 5px $primary
+  border-radius .4rem
+  padding 5.5rem 2.5rem 1rem
+  
+  &__avatar
+    position absolute
+    top 0
+    left 50%
+    transform translate(-50%, -50%)
+    width 10rem
+    height auto
+    text-align center
+    margin 0 auto
+    display block
+    border-radius 50%
+    background $primary
+    padding 5px
+    max-width 100%
+    
+    transition 0.2s
+    
+    &:hover
+      background darken($primary, 5)
+    
+  &__username
+    font-size 2rem
+    font-weight 900
+    text-align center
+    margin 1rem auto
+    
+  &__link
+    color white
+    border-bottom solid 2px white
+    text-decoration none
+    margin-bottom 0
+    padding-bottom 0
+    
+    &:hover
+      opacity 0.8
+    
+  &__notfound
+    text-align center
+    margin 0 auto
+    padding 1rem
+    
+/* some non-BEM stuff to avoid overloading the JSX for demo purposes */
+dl
+  margin 0
+  padding 0
+
+dt, dd
+  text-align center
+
+dt
+  font-weight 900
+  margin-bottom .2rem
+  
+dd
+  margin 0 0 1rem 0
+  

@@ -1,0 +1,244 @@
+body{
+	padding: 0;
+	margin: 0;
+	 font-family: 'Varela', sans-serif;
+     overflow-x: hidden;
+
+}
+
+
+
+
+.foot{
+    background-color: #333;
+    color:white;
+    height: 100px;
+    margin-top: 50px;
+}
+
+.foot li{
+    list-style-type: none;
+}
+
+.foot ul{
+    margin-top: 30px;
+    position: absolute;
+}
+
+.host{
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+
+.image {
+	 background-image: url("img/banner6.jpg");
+	 background-attachment: fixed;
+	  min-height: 550px;
+        background-position: 60% -90px;
+ 	 
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    overflow: hidden;
+    color: white;
+
+}
+
+.content{
+	 
+    top: 20%;
+  	width: 100%;
+  	height:400px;
+    position: absolute;
+    z-index: 9999;
+    text-align: center;
+    color: white;
+
+}
+.row2{
+    display: inline-block;
+}
+
+.container{
+
+    width: 700px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 50px;
+  
+
+}
+
+.me li{
+    display: inline;
+    margin-left: 70px;
+
+}
+.me{
+    margin-left: 270px;
+}
+
+.started{
+    float: left;
+    margin-left: 200px;
+    margin-top: 20%;
+}
+
+.container{
+    margin-left: 30%;
+}
+
+.row4{
+    display: flex;
+}
+.content h1{
+	font-size: 70px;
+	font-weight: lighter;
+	font-family:Verdana;
+	margin-bottom: 7px;
+
+
+}
+.content hr{
+	width:600px;
+	margin-top: 1px;
+	position: relative;
+}
+
+.content h3{
+	font-size: 25px;
+	font-weight: lighter;
+	font-family:Verdana;
+	margin-left: 2px;
+}
+
+.banner .content span {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    line-height: 25.2px;
+    padding: 11px 30px;
+    position: relative;
+    z-index: 9999;
+    border: 1px solid ;
+    margin-top: 25px;
+
+}
+
+.banner .content span:hover{
+	color: #444444;
+    
+    background-color: #ffffff;
+
+}
+
+.thumbnail{
+
+	background:rgb(246,246,246);
+	width:300px;
+	text-align: center;
+	padding: 20px;
+
+}
+.thumbnail p{
+	margin-top: 40px;
+	color:#999999;
+}
+
+.aboutus{
+	margin-top: 50px;
+    
+    height: 1200px;
+}
+
+.aboutus img{
+    margin-top: 5px;
+}
+
+.parallax{
+    background-attachment: fixed;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-position: 10px;
+    background-image: url("img/banner10.jpg");
+    position:relative;
+    clear: both;
+
+    margin-top: 20px;
+
+    min-height: 380px;
+
+   
+}
+
+.parallax:after{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+
+
+}
+
+.data{
+
+position: absolute;
+    z-index: 9999;
+    
+    margin-top: 10px;
+
+}
+.data p{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    float: right;
+    color: white;
+    z-index: 9999;
+    font-style: italic;
+    font-size: 15px;
+
+}
+
+.data img{
+    margin-left: 45%;
+}
+.row{
+    margin-top: 200px;
+}
+.row1{
+    margin-top: 5px;
+    margin-left: 9%;
+    color: white;
+    z-index: 9999;
+    position: absolute;
+}
+.row1 p{
+    margin-left: 82px;
+}
+
+.row img{
+    margin-left: 200px;
+    height: 13%;
+    width: 13%;
+    z-index: 9999;
+}
+
+
+.data h4{
+	font-size: 28px;
+}
+.data b{
+	margin-top: 12px;
+	font-size: 15px;
+	line-height: 16.8px;
+	position: ;
+}
+

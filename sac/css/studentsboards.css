@@ -1,0 +1,159 @@
+.center
+{
+    text-align: center;
+    padding-top: 110px;
+    
+}
+.nav
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+.logo
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+.BHM
+{
+    margin-top: 2%;
+    height: 280px;
+    width:280px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 5%;
+    border:1px solid grey;
+}
+.BSP
+{
+   
+    margin-top: -20.5%;
+    height: 280px;
+    width:280px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 38%;
+    border:1px solid grey; 
+}
+.BSW
+{
+   
+    margin-top: -20.5%;
+    height: 280px;
+    width:280px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 70%;
+    border:1px solid grey; 
+}
+.BCA
+{
+   
+    margin-top:5%;
+    height: 280px;
+    width:280px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 5%;
+    border:1px solid grey; 
+}
+.BSA
+{
+   
+    margin-top:-20.5%;
+    height: 280px;
+    width:280px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 38%;
+    border:1px solid grey; 
+}
+.BPA
+{
+   
+    margin-top:-20.5%;
+    height: 280px;
+    width:280px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 70%;
+    border:1px solid grey; 
+}
+@media only screen and (max-width:767px)
+{
+    .BHM
+    {
+    margin-top: 2%;
+    height: 310px;
+    width:230px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 5%;
+    border:1px solid grey;
+    }
+   .BSP
+{
+   
+    margin-top: 7%;
+    height: 310px;
+    width:230px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 5%;
+    border:1px solid grey; 
+} 
+    .BSW
+{
+   
+    margin-top:7%;
+    height: 310px;
+    width:230px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left:5%;
+    border:1px solid grey; 
+}
+    .BSA
+{
+    margin-top:7%;
+    height: 310px;
+    width:230px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left:5%;
+    border:1px solid grey; 
+}
+    .BCA
+{
+   
+    margin-top:5%;
+    height: 310px;
+    width:230px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 5%;
+    border:1px solid grey; 
+}
+    .BPA
+{
+   
+    margin-top:5%;
+    height: 280px;
+    width:230px;
+    line-height:130%;
+    background-color:#D0D0D0;
+    border-radius:10px 10px 10px 10px;
+    margin-left: 5%;
+    border:1px solid grey; 
+}
+}
+        

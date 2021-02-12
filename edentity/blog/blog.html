@@ -1,0 +1,191 @@
+<html>
+<head>
+<title>Know more about contact management and many other awesome things</title>
+  
+     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+	
+	<link href="css/main.css" rel="stylesheet" type="text/css"/>
+	
+
+	<title>BLOGS</title>
+
+</head>
+<body>
+
+
+
+	
+<div class="header">
+		
+			<a href="#"><img style="float:left" src="img/logo.png" width="50" height="50">
+			<h1 style="float:left"><span style="font-size:35px;">e</span>DENTITY</h1></a>
+			
+				<ul >
+					<li><a href="../index.html">ENTERPRISES</a></li>
+					<li><a href="blog.html">BLOGS</a></li>
+					<li><a href="../aboutus/aboutus.html">ABOUT US</a></li>
+					<li><a href="../login/login.html">LOG IN</a></li>
+				</ul>
+			
+		
+</div>
+
+<!--------------------------------------------start here------------------------------------------------------------------------>
+
+
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+		
+	
+		<div id="main" >
+
+			<div id="sidebar">
+				
+				<div id="search">
+					<img src="img/search.png" width="30"/>
+					<form action="blog.php">
+					<input id="searchbar" name="key" placeholder="Search" />
+					</form>
+				</div>
+
+				<h4>RECENT POSTS</h4>
+				<hr/>
+				<ul>
+													<li><a href="blog.php?blog=20">lets talk something boring! say Personality</a></li>
+															<li><a href="blog.php?blog=16">How to make great first impression?</a></li>
+															<li><a href="blog.php?blog=14">Namaste World!!!</a></li>
+															<li><a href="blog.php?blog=10">Make A Room... It's Edentity... </a></li>
+												
+				</ul>
+							</div>
+			
+
+
+
+
+
+			<div id="content">
+					
+					<ul>	 
+												<li>
+														<div class="datedisplay">11 Feb</div>
+														<h2><a href="blog.php?blog=20">lets talk something boring! say Personality</a> </h2>
+														<p class="postedon">Posted on 11 Feb 2016</p>
+														
+														<div class="post"><p>&#39;Yaa its boring to talk about personality&#39; but unfortunately most important factor of your life. Read with us to focus on this underrated parameter of you cool life. Know the importance of personality and personality development.</p>
+</div>
+														<p class="tags"><b>Tags:</b> General Grant, personality, aspirations, personality development guide, personality development series, Identity, edentity app, edentity union army, importance of personality</p>
+													</li>
+																								<li>
+														<div class="datedisplay">03 Feb</div>
+														<h2><a href="blog.php?blog=16">How to make great first impression?</a> </h2>
+														<p class="postedon">Posted on 03 Feb 2016</p>
+														<div class="clr"></div>
+														<div class="post"><p>It is said that&nbsp;&#39;first impression is last impression&#39;, here is a quick guide to make great first impression.</p>
+</div>
+														<p class="tags"><b>Tags:</b> Great first impression; how to make great first impression; How to dress well, how to be out standing in interview,</p>
+													</li>
+																								<li>
+														<div class="datedisplay">10 Jan</div>
+														<h2><a href="blog.php?blog=14">Namaste World!!!</a> </h2>
+														<p class="postedon">Posted on 10 Jan 2016</p>
+														<div class="clr"></div>
+														<div class="post"><p>I am so glad that you are here. Welcome to Pecule Innovations.<br />
+Pecule Innovation is a bunch of enthusiast who dream for better tomorrow and strongly believe in Gandhiji philosophy&hellip; &ldquo;Be the change you want to see in the World&hellip;.&rdquo;</p>
+</div>
+														<p class="tags"><b>Tags:</b> edentity, identity, contacts management,namaste world, pecule, innovation, national exhibition centre  </p>
+													</li>
+																								<li>
+														<div class="datedisplay">11 Jan</div>
+														<h2><a href="blog.php?blog=10">Make A Room... It's Edentity... </a> </h2>
+														<p class="postedon">Posted on 11 Jan 2016</p>
+														<div class="clr"></div>
+														<div class="post"><p><a href="http://www.edentity.co.in/blog.php?blog=7" target="_blank">Earlier</a> I talked about how we need to manage Identity rather than managing cold dead contact. Today I am going to talk about what is <a href="https://en.wikipedia.org/wiki/Identity_(social_science)" target="_blank">Identity</a> and How to manage it.</p>
+</div>
+														<p class="tags"><b>Tags:</b> identity, forgot names, contact management, dialer, contact list, edentity</p>
+													</li>
+											</ul>	
+
+						</div>
+
+					
+	
+
+
+			<div id="nav">
+			
+				<ul>
+				<li>Page 1 of 1</li><li class="currentpage">1</li>		
+				</ul>
+				
+			</div>
+			
+		
+	</div>
+	
+
+	<script type="text/javascript">
+	function _(el){return document.getElementById(el);}
+	var liked=false;
+	if (window.XMLHttpRequest){ajx=new XMLHttpRequest();}else{ajx=new ActiveXObject("Microsoft.XMLHTTP");}
+	function like(id){
+		if(!liked){
+			
+			ajx.open("get","likeblog.php?blog="+id,true);
+			ajx.send();
+			ajx.onreadystatechange=function(){
+				if(ajx.readyState==4 && ajx.status==200){
+					if(ajx.responseText=="ok"){
+							liked=true;
+							_('likebtn').src="vectors/liked.png";
+							_('likep').innerHTML=parseInt(_('likep').innerHTML)+1;
+					}else{
+						alert("Something went wrong.");
+					}
+				}
+			}
+			
+			
+		}
+	}
+	</script>
+
+
+
+<!-------------------------------------------------end here-------------------------------------------------------------------------->
+		<div class="footer">
+			<div id= "bar">
+			<ul>
+				<li><a href="#">TERMS OF USE</a></li>
+				<li><a href="#">PRIVACY POLICY</a></li>
+				<li><a href="#">BLOG</a></li>
+				<li><a href="#">CONTACT US</a></li>
+				<li><a href="#">SUPPORT</a></li>
+				<li><a href="#">PRESS</a></li>
+			</ul>
+			</div>
+			
+			<div id="fb">
+				<ul>
+					<li><a href=""><img src="img/fb.png" height="50"></a></li>
+					<li><a href="https://twitter.com/edentityapp"><img src="img/tw.png" height="50"></a></li>
+					<li><a href="https://www.linkedin.com/company/pecule-innovations"><img src="img/li.png" height="50"></a></li>
+					<li><a href="https://plus.google.com/109119227646907544132"><img src="img/gp.png" height="50"></a></li>
+					<div class="clr"></div>
+				</ul>
+			</div>
+			<p id="foot">COPYRIGHT © 2016 ALL RIGHTS RESERVED</p>
+		</div>
+
+		<p id="below">Powered by SHYAM TAYAL</p>
+</html> 
