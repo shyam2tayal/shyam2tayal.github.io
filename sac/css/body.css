@@ -1,0 +1,88 @@
+* {margin:0; padding: 0;} html, body {height:100%;}
+    /** format elements which have backgrounds parallax **/ 
+.bgParallax
+ {
+     font-family: 'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif; 
+     color:#FFF;
+     margin: 0 auto;
+     width: 100%; 
+     max-width: 1920px;
+     position: relative;
+     min-height: 100%; 
+     background-size: cover;
+     background-repeat:no-repeat;
+     background-attachment: fixed; 
+ }
+.nav
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+.logo
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    z-index: 9999;
+    position: absolute;
+}
+    /* Define backgrounds of divs */ 
+#aboutus
+{
+    background-image: url(../img/main.jpg);
+    -webkit-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
+    -moz-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7); 
+    -ms-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
+    -o-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
+    box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
+}
+
+#aboutus:after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.6);
+    width: 100%;
+    height: 662px;
+    content: '';
+}
+
+
+
+#mission
+{
+    background-color: #005757;
+   height: 550px;
+   overflow: hidden; 
+    color: #fff; 
+    -webkit-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
+    -moz-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7); 
+    -ms-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7); 
+    -o-box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7);
+    box-shadow:-20px 0 20px 5px rgba(0,0,0,0.7); }
+    /** Format article **/
+.bgParallax article 
+{ 
+    width: 100%;
+    text-align: center;
+    margin:0 auto;
+    padding:20% 0 0; 
+    z-index: 9999;
+    position: absolute;
+
+
+}
+
+#mission article{
+    padding: 40px;
+    margin-top: 0;
+    text-align: center;
+}
+
+.row1{
+    background-color: #003D3D;
+    height: 50px;
+    padding: 10px;
+    height: 63px;
+
+}
+
+
+

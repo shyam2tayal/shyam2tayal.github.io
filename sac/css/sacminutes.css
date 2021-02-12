@@ -1,0 +1,48 @@
+.center
+{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 60px;
+    font-size: 10px;
+    
+}
+.nav
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+.logo
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+.minutes
+{
+    color: white;
+    font-size: 22px;
+    font-family:'montserrat-bold', sans-serif;
+    
+    margin-top: 3%;
+    margin-bottom: 50px;
+    height: 100px;
+
+}
+.const
+{   
+    margin-top: 50px;
+    color: white;
+    font-size: 22px;
+    font-family:'montserrat-bold', sans-serif;
+}
+@media only screen and (max-width:767px)
+{
+    .minutes
+    {
+        margin-left: 0%;
+        font-size: 15px;
+    }
+    .const
+{
+    color: black;
+    font-size: 15px;
+    margin-left: 0%;
+}
+}

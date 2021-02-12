@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Micro Social Directory</title>
+    <link rel="shortcut icon" href="img/favicon.png">
+      <link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:500,300,700,400' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet" />
+
+    <script src="js/angular/angular.min.js"></script>
+
+  </head>
+  <body ng-app="myApp" ng-init="myValue1=true;myValue=false">
+   <nav class="navbar navbar-inverse">
+        <h1><i><b>Micro Social Directory Using AngularJs</b></i></h1>
+        </nav>
+
+    <div class="main" ng-controller="MainController">
+      <div class="container">
+
+
+
+
+        <div ng-repeat="i in mydata.results" class="col-lg-6">
+         <div class ="row top-buffer">
+  				<div class="thumbnail">
+            <div ng-hide="selected.index===$index " ng-click="selected.index=$index">
+    			     <img  class="img-circle" z-index="-2" ng-src="{{ i.picture.medium }}">
+    				<p class="price" ><b>{{ i.name.title }} {{i.name.first}} {{i.name.last}}</b></p>
+             <p class="email"><b> <br/>{{i.email}}</b></p>
+
+
+
+
+            </div>
+
+
+            <div ng-show="selected.index===$index" class="data">
+            <span>
+            <p> Name: {{i.name.title}} {{i.name.first}} {{i.name.last}}</p>
+            <p> Gender: {{i.gender}}</p>
+            <p> Adress: {{i.location.street}} {{i.location.city}} {{i.location.state}}</p>
+            <p> Email: {{i.email}}</p>
+            <p> Dob: {{i.dob}}</p>
+            <p> Phone: {{i.phone}}</p>
+            <p>Username: {{i.login.username}}</p>
+            <p> password: {{i.login.password}}</p>
+            <p> Registered: {{i.registered}} </p>
+            <p> Md5 : {{i.login.md5}}
+            </span>
+
+            <div class="shyam">
+           <p ng-click="selected.index=$index+1" >x</p>
+            </div>
+
+
+
+
+
+
+  				   </div>
+				</div>
+         </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <h2><b><i>Project by Shyam Tayal  <a href="https://github.com/shyam2tayal"> <img src="img/github2.png" width="5%" height="5%"></a><a href="https://www.facebook.com/Sam007tayal"> <img src="img/fb.ico" width="5%" height="5%"></a></i></b> </h2>
+
+
+      </div>
+    </div>
+
+
+    <!-- Modules -->
+    <script src="js/app.js"></script>
+
+    <!-- Controllers -->
+    <script src="js/controllers/MainController.js"></script>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<h3>The Various Reviews for product id {{pid }} is:</h3>
+
+
+<div class="container sam">
+  <div class="row">
+  <div class="col-md-3"
+  ng-repeat="i in mydata3 | startFrom:currentPage*pageSize| filter:q | limitTo:pageSize | orderBy : ['-ratings.Overall','usefulness','reviewer.connection_level']"
+  ng-init="friends =true;flag = false">
+
+      <p class="list-group-item" ng-repeat="(key,value) in i" ng-if="key == 'title' || key == 'comment' || key == 'usefulness' || key == 'ratings' || key == 'reviewer'">
+        <strong ng-if="key!='reviewer'">{{key}} :</strong>
+        <a ng-if="key!='ratings' && key!='reviewer'"> {{value}}</a>
+
+            <!--   Ratings section   --------------------------------->
+              <span ng-if="key=='ratings'">
+                <span ng-repeat="i in getNumber(value.Overall) track by $index"> &#9733 </span>(Overall)<br/>
+                 <button class="btn-info" ng-show="flag == false" data-ng-click="flag = true">show more</button>
+
+              <span ng-show="flag == true" >
+              <br/>price : <span ng-repeat="i in getNumber(value.price) track by $index"> &#9733</span><br/>
+              delivery_time  <span ng-repeat="i in getNumber(value.delivery_time) track by $index"> &#9733</span><br/>
+              discounts_and_offers  <span ng-repeat="i in getNumber(value.discounts_and_offers) track by $index"> &#9733</span><br/>
+              matches_description  <span ng-repeat="i in getNumber(value.matches_description) track by $index"> &#9733</span><br/>
+              </span>
+               </span>
+
+               <!--     --------------------------------->
+               <span ng-if="key == 'reviewer'">
+                 <strong >reviewer's name :</strong>
+                 <a> {{value.name}}
+                 </span>
+
+
+      </p>
+      <p class="list-group-item" ng-if="key">
+
+</div>
+</div>
+
+<div style="margin-top:5%;margin-left:30%;">
+  <button type="button" class="btn btn-success" ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">
+      Previous
+  </button>
+  {{currentPage+1}}/{{numberOfPages()}}
+  <button type="button" class="btn btn-success"
+  ng-disabled="currentPage >= getData().length/pageSize - 1"
+  ng-click="currentPage=currentPage+1">
+      Next
+  </button>
+</div>

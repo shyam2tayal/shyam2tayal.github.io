@@ -1,0 +1,33 @@
+.center
+{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 64px;
+    font-family:  'montserrat-bold', sans-serif;
+    
+}
+.members
+{
+    color: #007070;
+    margin-left: 15%;
+    margin-top: 3%;
+    padding: 1%;
+
+    
+}
+.members a{
+    color: #007070;
+}
+.nav
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+.logo
+{
+    font-family:  'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+
+table{
+    background:rgb(245,245,245);
+    opacity: 0.6;
+}
